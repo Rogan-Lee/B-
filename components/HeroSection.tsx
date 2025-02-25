@@ -60,8 +60,8 @@ export default function HeroSection() {
         {/* ✅ 우측 CTA 박스 (너비 28%) */}
         <div className="w-[28%] flex flex-col space-y-4 justify-between h-[450px]">
           {/* 파란색 박스 */}
-          <div className="bg-blue-600 text-white p-6 rounded-xl shadow-lg flex flex-col justify-between hover:bg-blue-700 transition h-[48%]">
-            <h3 className="text-lg font-bold">파란색 제목</h3>
+          <div className="bg-green-500 text-white p-6 rounded-xl shadow-lg flex flex-col justify-between hover:bg-[#191414] hover:text-[#1DB954] transition h-[48%]">
+            <h3 className="text-lg font-bold">팟캐스트 듣자</h3>
             <div className="flex items-center justify-between mt-2">
               <span className="text-sm">자세히 보기</span>
               <ArrowRight className="w-5 h-5" />
@@ -70,7 +70,7 @@ export default function HeroSection() {
 
           {/* 빨간색 박스 */}
           <div className="bg-red-600 text-white p-6 rounded-xl shadow-lg flex flex-col justify-between hover:bg-red-700 transition h-[48%]">
-            <h3 className="text-lg font-bold">빨간색 제목</h3>
+            <h3 className="text-lg font-bold">뉴스레터 읽자</h3>
             <div className="flex items-center justify-between mt-2">
               <span className="text-sm">더 알아보기</span>
               <ArrowRight className="w-5 h-5" />
