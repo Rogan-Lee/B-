@@ -67,7 +67,7 @@ export default function RootLayout({
         GeistMono.variable
       )}
     >
-      <body className="antialiased w-full min-h-screen px-4 md:px-8 lg:px-16 py-4 md:py-8 lg:py-16 text-black bg-white dark:text-white dark:bg-black">
+      <body className="antialiased w-full max-w-screen-lg flex justify-center items-center min-h-screen px-4 md:px-8 lg:px-16 py-4 md:py-8 lg:py-16 text-black bg-white dark:text-white dark:bg-black">
         <ThemeProvider attribute='class' defaultTheme='light' >
           <main className="w-full min-h-screen">
             <Navbar />

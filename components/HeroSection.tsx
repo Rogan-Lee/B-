@@ -13,7 +13,7 @@ export default function HeroSection() {
     <div className="w-full">
       <div className="flex items-stretch justify-between space-x-6">
         {/* ✅ 왼쪽 슬라이드 카드 (너비 70%) */}
-        <div className="w-[70%] bg-white dark:bg-gray-900 rounded-xl overflow-hidden shadow-lg h-[450px]">
+        <div className="w-full bg-white dark:bg-gray-900 rounded-xl overflow-hidden shadow-lg h-[450px]">
           <Swiper
             modules={[Autoplay, Pagination]}
             spaceBetween={0}

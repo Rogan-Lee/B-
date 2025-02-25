@@ -4,9 +4,9 @@ import { BlogPosts } from 'components/posts'
 
 export default function Page() {
   return (
-    <section>
-      <div className="w-full min-h-screen">
-        <section className="w-full">
+    <section className="flex justify-center">
+      <div className="w-full max-w-screen-lg px-8 lg:px-16 min-h-screen">
+        <section className="w-full ">
           <HeroSection />
         </section>
 
