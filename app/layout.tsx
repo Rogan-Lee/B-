@@ -10,8 +10,8 @@ import { ThemeProvider } from 'next-themes'
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
-    default: 'Notionpresso Portfolio Starter',
-    template: '%s | Notionpresso Portfolio Starter',
+    default: 'B급보고',
+    template: '%s | B급보고',
   },
   description: 'This is my my portfloio',
   openGraph: {
@@ -67,9 +67,9 @@ export default function RootLayout({
         GeistMono.variable
       )}
     >
-      <body className="antialiased max-w-xl mx-4 mt-8 sm:mx-auto text-black bg-white dark:text-white dark:bg-black">
+      <body className="antialiased w-full min-h-screen px-4 md:px-8 lg:px-16 py-4 md:py-8 lg:py-16 text-black bg-white dark:text-white dark:bg-black">
         <ThemeProvider attribute='class' defaultTheme='light' >
-          <main className="flex-auto min-w-0 mt-6 flex flex-col px-2 md:px-0">
+          <main className="w-full min-h-screen">
             <Navbar />
             {children}
             <Footer />
