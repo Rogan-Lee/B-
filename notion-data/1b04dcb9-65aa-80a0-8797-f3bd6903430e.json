@@ -1,0 +1,1080 @@
+{
+  "object": "page",
+  "id": "1b04dcb9-65aa-80a0-8797-f3bd6903430e",
+  "created_time": "2025-03-08T06:46:00.000Z",
+  "last_edited_time": "2025-03-08T06:46:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "19d4dcb9-65aa-8001-a3bc-f5395e0813dc"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "구독 in 글로벌",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "구독 in 글로벌",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/in-1b04dcb965aa80a08797f3bd6903430e",
+  "public_url": null,
+  "request_id": "5a40d3b5-1f44-4e6d-9a11-a5d422d4d333",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80cb-b179-c5203db53c3d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80a0-8797-f3bd6903430e"
+      },
+      "created_time": "2025-03-08T06:46:00.000Z",
+      "last_edited_time": "2025-03-08T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " 무언가 좋고 나쁨을 평가할 때는 비교 기준이 있어야겠죠? 저는 비교 기준을 더 넓혀서! 해외의 구독 서비스를 살펴보면 어떨까 합니다. 해외의 사례를 보면, 저는 미래를 미리 알 수 있다는 이점이 있다고 생각해요. 그 이유는 아래에서 나옵니다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 무언가 좋고 나쁨을 평가할 때는 비교 기준이 있어야겠죠? 저는 비교 기준을 더 넓혀서! 해외의 구독 서비스를 살펴보면 어떨까 합니다. 해외의 사례를 보면, 저는 미래를 미리 알 수 있다는 이점이 있다고 생각해요. 그 이유는 아래에서 나옵니다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8075-90f5-d412aa3664a4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80a0-8797-f3bd6903430e"
+      },
+      "created_time": "2025-03-08T06:46:00.000Z",
+      "last_edited_time": "2025-03-08T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "스타트는 아마존이 끊었다",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "스타트는 아마존이 끊었다",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80e6-b5f5-e1c401b68256",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80a0-8797-f3bd6903430e"
+      },
+      "created_time": "2025-03-08T06:46:00.000Z",
+      "last_edited_time": "2025-03-08T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1b04dcb9-65aa-80a0-8797-f3bd6903430e/image_1.png",
+          "expiry_time": "2025-03-08T07:46:32.709Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8091-9ca5-fdcdf61dd54a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80a0-8797-f3bd6903430e"
+      },
+      "created_time": "2025-03-08T06:46:00.000Z",
+      "last_edited_time": "2025-03-08T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " 한국의 대표적인 구독 상품인 와우 멤버십은 미국의 1등 커머스 기업인 아마존을 거의 그대로 따라한 거라는 걸 알고 계신가요? 쿠팡은 아마존이 그간 걸어왔던 길을 그대로 따라서 사업을 펼치고 있다고 말해도 좋을 것 같아요.\n 아마존 프라임은 초기에는 단기적인 손익 악화를 감수하더라도, 장기적으로 시장 독점을 이루겠다는 전략을 보여주었어요. 실제로 프라임 회원은 비회원보다 3~4배 이상의 구매력을 보이며, 아마존은 이를 통해 강력한 고객 기반을 구축할 수 있었어요. 그 결과 아마존은 미국 이커머스 시장의 약 38%에서 40% 정도를 점유할 수 있었죠. 업계에 따라 독점의 기준은 다르지만 이커머스 시장점유율 40%는 사실상 독점 상태라고 보는 경우가 많아요. 아마존의 행보… 왜인지 어디서 본 듯한 기시감이 들지 않나요? (ㅋㅍ)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 한국의 대표적인 구독 상품인 와우 멤버십은 미국의 1등 커머스 기업인 아마존을 거의 그대로 따라한 거라는 걸 알고 계신가요? 쿠팡은 아마존이 그간 걸어왔던 길을 그대로 따라서 사업을 펼치고 있다고 말해도 좋을 것 같아요.\n 아마존 프라임은 초기에는 단기적인 손익 악화를 감수하더라도, 장기적으로 시장 독점을 이루겠다는 전략을 보여주었어요. 실제로 프라임 회원은 비회원보다 3~4배 이상의 구매력을 보이며, 아마존은 이를 통해 강력한 고객 기반을 구축할 수 있었어요. 그 결과 아마존은 미국 이커머스 시장의 약 38%에서 40% 정도를 점유할 수 있었죠. 업계에 따라 독점의 기준은 다르지만 이커머스 시장점유율 40%는 사실상 독점 상태라고 보는 경우가 많아요. 아마존의 행보… 왜인지 어디서 본 듯한 기시감이 들지 않나요? (ㅋㅍ)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-802d-9a4a-f525bfca54dd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80a0-8797-f3bd6903430e"
+      },
+      "created_time": "2025-03-08T06:46:00.000Z",
+      "last_edited_time": "2025-03-08T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " 아마존의 사례를 참고하면, 구독 서비스의 본질은 이처럼 정의할 수 있을 것 같아요. ‘파격적인 혜택을 제공함으로써 헤비유저의 비중을 높이고(구매 빈도를 높이고) 고객이 지속해서 플랫폼에 머물도록 한다.(잔존율을 높인다)’ ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 아마존의 사례를 참고하면, 구독 서비스의 본질은 이처럼 정의할 수 있을 것 같아요. ‘파격적인 혜택을 제공함으로써 헤비유저의 비중을 높이고(구매 빈도를 높이고) 고객이 지속해서 플랫폼에 머물도록 한다.(잔존율을 높인다)’ ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80bc-bbd9-f530229a632d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80a0-8797-f3bd6903430e"
+      },
+      "created_time": "2025-03-08T06:46:00.000Z",
+      "last_edited_time": "2025-03-08T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " 그런데 아마존이 너무나 명확한 성공 사례를 보여주기 전까지는 사실 기업들도 겁이 났을 거에요. 우리가 만약 가게를 운영하는 사장님이라고 생각한다면 10%쿠폰 대신 5% 쿠폰만 줘도 매출이 거의 비슷한 수준일 거라는 예지력(?)이 있다면 5%만 주고 싶지 않을까요? 그치만 아마존은 세계의 모든 기업들에게 이게 답이다. 이렇게 하면 지금 당장의 손익은 나빠지라도 끝내는 시장을 독점하고 막대한 이익을 벌어들일 수 있다는 걸 보여주었죠. 너무나 완벽한 승리를 목도한 기업들이 구독 상품을 굳이 출시하지 않을 이유가 있을까요?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 그런데 아마존이 너무나 명확한 성공 사례를 보여주기 전까지는 사실 기업들도 겁이 났을 거에요. 우리가 만약 가게를 운영하는 사장님이라고 생각한다면 10%쿠폰 대신 5% 쿠폰만 줘도 매출이 거의 비슷한 수준일 거라는 예지력(?)이 있다면 5%만 주고 싶지 않을까요? 그치만 아마존은 세계의 모든 기업들에게 이게 답이다. 이렇게 하면 지금 당장의 손익은 나빠지라도 끝내는 시장을 독점하고 막대한 이익을 벌어들일 수 있다는 걸 보여주었죠. 너무나 완벽한 승리를 목도한 기업들이 구독 상품을 굳이 출시하지 않을 이유가 있을까요?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80ae-94ac-c335bfe58b5a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80a0-8797-f3bd6903430e"
+      },
+      "created_time": "2025-03-08T06:46:00.000Z",
+      "last_edited_time": "2025-03-08T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8037-86f2-f1e969275755",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80a0-8797-f3bd6903430e"
+      },
+      "created_time": "2025-03-08T06:46:00.000Z",
+      "last_edited_time": "2025-03-08T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "해외에는 또 어떤 구독 서비스들이 있나?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "해외에는 또 어떤 구독 서비스들이 있나?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8047-a0dc-e0d7bf73a6d7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80a0-8797-f3bd6903430e"
+      },
+      "created_time": "2025-03-08T06:46:00.000Z",
+      "last_edited_time": "2025-03-08T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " 아마존 이외에도 해외의 수많은 커머스 회사들이 구독 서비스를 운영하고 있어요. 그 중에서도 대표적인 몇 가지 사례를 골라봤어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 아마존 이외에도 해외의 수많은 커머스 회사들이 구독 서비스를 운영하고 있어요. 그 중에서도 대표적인 몇 가지 사례를 골라봤어요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8095-8c16-c63df0fdeeca",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80a0-8797-f3bd6903430e"
+      },
+      "created_time": "2025-03-08T06:46:00.000Z",
+      "last_edited_time": "2025-03-08T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "table",
+      "table": {
+        "table_width": 5,
+        "has_column_header": false,
+        "has_row_header": false
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-8045-8c6b-f777d2f5bd5b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-8095-8c16-c63df0fdeeca"
+          },
+          "created_time": "2025-03-08T06:46:00.000Z",
+          "last_edited_time": "2025-03-08T06:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "서비스 이름",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "서비스 이름",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "회사",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "회사",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "가입 조건 및 비용",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "가입 조건 및 비용",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "주요 혜택",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "주요 혜택",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "특징/목적",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "특징/목적",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-809c-a4da-d1938879235d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-8095-8c16-c63df0fdeeca"
+          },
+          "created_time": "2025-03-08T06:46:00.000Z",
+          "last_edited_time": "2025-03-08T06:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "알리바바 88 VIP 멤버십",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "알리바바 88 VIP 멤버십",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "알리바바 그룹",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "알리바바 그룹",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "- 누적 구매 포인트 1,000점 이상 시: 연 88위안\n- 미달 시: 연 888위안",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "- 누적 구매 포인트 1,000점 이상 시: 연 88위안\n- 미달 시: 연 888위안",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "- Tmall Supermarket 및 88개 제휴 브랜드 5% 할인\n- Ele.me, Youku 등 알리바바 생태계 혜택 제공",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "- Tmall Supermarket 및 88개 제휴 브랜드 5% 할인\n- Ele.me, Youku 등 알리바바 생태계 혜택 제공",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "고소득층 및 충성 고객을 대상으로 고객 잔존율과 ARPU 증대를 목표로 함",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "고소득층 및 충성 고객을 대상으로 고객 잔존율과 ARPU 증대를 목표로 함",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-80aa-acb7-f67decabc492",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-8095-8c16-c63df0fdeeca"
+          },
+          "created_time": "2025-03-08T06:46:00.000Z",
+          "last_edited_time": "2025-03-08T06:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "라쿠텐 슈퍼 포인트 프로그램",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "라쿠텐 슈퍼 포인트 프로그램",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "라쿠텐",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "라쿠텐",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "무료 가입 (회원 가입 시 자동 등록)",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "무료 가입 (회원 가입 시 자동 등록)",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "- 구매 시 포인트 적립\n- 적립된 포인트로 할인 및 다양한 라쿠텐 서비스 이용 가능",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "- 구매 시 포인트 적립\n- 적립된 포인트로 할인 및 다양한 라쿠텐 서비스 이용 가능",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "포인트 기반 로열티 프로그램로, 재구매 및 고객 충성도 향상에 초점",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "포인트 기반 로열티 프로그램로, 재구매 및 고객 충성도 향상에 초점",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-80c1-b6e1-cfcd75343d9b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-8095-8c16-c63df0fdeeca"
+          },
+          "created_time": "2025-03-08T06:46:00.000Z",
+          "last_edited_time": "2025-03-08T06:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "인스타카트+",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "인스타카트+",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "인스타카트",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "인스타카트",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "월 구독료 약 $9.99 (시장에 따라 상이할 수 있음)",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "월 구독료 약 $9.99 (시장에 따라 상이할 수 있음)",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "- 무료 배송 (일정 금액 이상 주문 시)\n- 낮은 서비스 수수료 및 회원 전용 할인 혜택",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "- 무료 배송 (일정 금액 이상 주문 시)\n- 낮은 서비스 수수료 및 회원 전용 할인 혜택",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "정기적으로 식료품 주문하는 고객의 배송비 부담을 줄여 편리한 쇼핑 경험 제공",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "정기적으로 식료품 주문하는 고객의 배송비 부담을 줄여 편리한 쇼핑 경험 제공",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-807d-b147-ff68b2144c3f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80a0-8797-f3bd6903430e"
+      },
+      "created_time": "2025-03-08T06:46:00.000Z",
+      "last_edited_time": "2025-03-08T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "각 상품마다 특장점은 다르지만 결국 본질은 위에서 말한 것과 같이 ‘구매 빈도를 높이고 잔존율을 높이는 데’에 있어요. 한 가지 재밌는 점은 해당 회사들도 국내 기업이 운영하고 있는 구독 서비스와 접점을 찾을 수 있다는 거에요. 예를 들어, 라쿠텐은 포인트 혜택을 중심으로 구독 서비스를 운영하는 네이버(네이버플러스멤버십)과 닮은 점이 많아보여요. 또 인스타카트+는 배달의민족(배민클럽)과 유사하게 무료 배송과 회원 전용 할인 혜택을 고객들에게 제공하고 있어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "각 상품마다 특장점은 다르지만 결국 본질은 위에서 말한 것과 같이 ‘구매 빈도를 높이고 잔존율을 높이는 데’에 있어요. 한 가지 재밌는 점은 해당 회사들도 국내 기업이 운영하고 있는 구독 서비스와 접점을 찾을 수 있다는 거에요. 예를 들어, 라쿠텐은 포인트 혜택을 중심으로 구독 서비스를 운영하는 네이버(네이버플러스멤버십)과 닮은 점이 많아보여요. 또 인스타카트+는 배달의민족(배민클럽)과 유사하게 무료 배송과 회원 전용 할인 혜택을 고객들에게 제공하고 있어요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-807a-a586-e300fd723bb8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80a0-8797-f3bd6903430e"
+      },
+      "created_time": "2025-03-08T06:46:00.000Z",
+      "last_edited_time": "2025-03-08T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "K-커머스는 앞으로도 구독과 함께할 것",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "K-커머스는 앞으로도 구독과 함께할 것",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8085-bffa-e2b173c3af7f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80a0-8797-f3bd6903430e"
+      },
+      "created_time": "2025-03-08T06:46:00.000Z",
+      "last_edited_time": "2025-03-08T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " 글로벌 트렌드로, 더 많은 회사들이 더 다양한 구독 서비스를 출시하고 있으며 아마존과 같은 성공 사례들이 계속해서 생겨나고 있어요. 그리고 저는 국내 커머스 기업들 또한 넥스트 아마존 넥스트 알리바바를 꿈꾸며 독자적인 구독 서비스를 출시할 것이라고 예상해요. 때로는 어떤 것이 좋은지 나쁜지와는 상관없이, 그것이 순리인 듯이 일이 이루어지고는 하죠. 이제 구독 서비스는 이 바닥에서 거스를 수 없는 흐름이 되지 않았나 생각해요. 그리고 우리만 거슬러 올라갈 순 없겠죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 글로벌 트렌드로, 더 많은 회사들이 더 다양한 구독 서비스를 출시하고 있으며 아마존과 같은 성공 사례들이 계속해서 생겨나고 있어요. 그리고 저는 국내 커머스 기업들 또한 넥스트 아마존 넥스트 알리바바를 꿈꾸며 독자적인 구독 서비스를 출시할 것이라고 예상해요. 때로는 어떤 것이 좋은지 나쁜지와는 상관없이, 그것이 순리인 듯이 일이 이루어지고는 하죠. 이제 구독 서비스는 이 바닥에서 거스를 수 없는 흐름이 되지 않았나 생각해요. 그리고 우리만 거슬러 올라갈 순 없겠죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}

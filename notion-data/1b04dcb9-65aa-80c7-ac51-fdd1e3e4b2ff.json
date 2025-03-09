@@ -1,0 +1,5231 @@
+{
+  "object": "page",
+  "id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff",
+  "created_time": "2025-03-08T06:49:00.000Z",
+  "last_edited_time": "2025-03-08T06:49:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "19d4dcb9-65aa-8001-a3bc-f5395e0813dc"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "물류가 있어야 비즈니스가 굴러간다",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "물류가 있어야 비즈니스가 굴러간다",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/1b04dcb965aa80c7ac51fdd1e3e4b2ff",
+  "public_url": null,
+  "request_id": "2b92dca1-9f1c-4cee-af0e-cfbf9aa91ef4",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80c6-8cc5-c03308d9bdec",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "🚛 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "🚛 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "“물류가 있어야 비즈니스가 굴러간다”",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“물류가 있어야 비즈니스가 굴러간다”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80a3-aac1-c0390d14e31b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "여러분, 요즘 뭐 하나 사려면 클릭 한 번이면 되죠? 그런데 클릭 한 번으로 끝나는 건 우리뿐이에요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "여러분, 요즘 뭐 하나 사려면 클릭 한 번이면 되죠? 그런데 클릭 한 번으로 끝나는 건 우리뿐이에요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8030-9c0f-cb529b0c1aa7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "보이지 않는 곳에서는 어마어마한 물동량이 오가고 있어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "보이지 않는 곳에서는 어마어마한 물동량이 오가고 있어요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80fb-a412-d5db19eed8ea",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "물류가 없다면? 당연히 서비스도 없습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "물류가 없다면? 당연히 서비스도 없습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80a9-bac3-cf076317ae12",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-808b-b6ab-f6f3c9494d16",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "사실, 구독 서비스 이야기에서 갑자기 왜 물동량 이야기가 나왔는지 궁금하실 거예요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "사실, 구독 서비스 이야기에서 갑자기 왜 물동량 이야기가 나왔는지 궁금하실 거예요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80a3-b9c5-f409a49adc23",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "우리는 보통 기업들이 그냥 유행 따라서, 혹은 별다른 고민 없이 \"우리도 한 번 해볼까?\" 하는 마음으로 구독 서비스를 출시한다고 생각하기 쉬워요. 하지만 사실 구독 서비스는 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "우리는 보통 기업들이 그냥 유행 따라서, 혹은 별다른 고민 없이 \"우리도 한 번 해볼까?\" 하는 마음으로 구독 서비스를 출시한다고 생각하기 쉬워요. 하지만 사실 구독 서비스는 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "물동량을 선점",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "물동량을 선점",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "해, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "해, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "양질의 서비스를 제공",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "양질의 서비스를 제공",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "하기 위한 최선의 선택이라 볼 수 있어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하기 위한 최선의 선택이라 볼 수 있어요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80a8-b2c1-cacdd98bfea0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "즉, 단순히 \"구독이 잘 나가니까 우리도 해보자!\"가 아니라, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "즉, 단순히 \"구독이 잘 나가니까 우리도 해보자!\"가 아니라, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "최고의 서비스를 제공하기 위한 최선의 선택",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "최고의 서비스를 제공하기 위한 최선의 선택",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이라는 거죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이라는 거죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80a2-8da2-dd02b1673d4f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "지금부터 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "지금부터 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "기업들이 물동량을 선점하기 위해 벌이는 물류 전쟁과, 구독 서비스가 그 전략의 핵심이 되는 이유",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "기업들이 물동량을 선점하기 위해 벌이는 물류 전쟁과, 구독 서비스가 그 전략의 핵심이 되는 이유",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "를 함께 살펴보아요! 🚀",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "를 함께 살펴보아요! 🚀",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8051-899a-fcaddc43348a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80ac-ace9-c1dd9e316e34",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "💡 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "💡 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "1. 물동량이 뭔데?",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1. 물동량이 뭔데?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8015-8a52-c6b4b98c8652",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "물동량(Freight Volume)은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "물동량(Freight Volume)은 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "일정 기간 동안 특정 지역에서 운송되는 화물의 총량",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "일정 기간 동안 특정 지역에서 운송되는 화물의 총량",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "을 의미해요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "을 의미해요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-806e-892f-e20372fcfb91",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "쉽게 말해, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "쉽게 말해, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "얼마나 많은 물건이 창고에서 나와 소비자에게 전달되었는지",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "얼마나 많은 물건이 창고에서 나와 소비자에게 전달되었는지",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "를 나타내는 지표죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "를 나타내는 지표죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80c7-9065-d767c30bdd03",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이 수치는 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이 수치는 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "항만, 공항, 도로 물류센터 등에서 측정되며, 경제 활동의 핵심 지표",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "항만, 공항, 도로 물류센터 등에서 측정되며, 경제 활동의 핵심 지표",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "로 활용돼요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "로 활용돼요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-804d-ad73-c8332fb7e7db",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-802a-9816-d22f6409cabb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "물동량이 많다는 것은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "물동량이 많다는 것은 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "기업의 제품이 활발하게 생산·유통·소비되고 있다는 의미",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "기업의 제품이 활발하게 생산·유통·소비되고 있다는 의미",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "예요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "예요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80b5-8513-e72dbcdf3689",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "예를 들어, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "예를 들어, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "쿠팡의 하루 물동량이 350만 건을 넘는다는 건 고객 주문이 꾸준히 발생하고 있다는 증거",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "쿠팡의 하루 물동량이 350만 건을 넘는다는 건 고객 주문이 꾸준히 발생하고 있다는 증거",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80b0-866d-db929e883f46",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "또한, 글로벌 무역에서도 물동량이 증가하면 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "또한, 글로벌 무역에서도 물동량이 증가하면 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "수출입이 활발하다는 뜻이며, 이는 경제 성장과 직결",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "수출입이 활발하다는 뜻이며, 이는 경제 성장과 직결",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "돼요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "돼요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-806e-9f3f-eaa1c6bd3b04",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "결국, 물류 흐름이 원활해야 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "결국, 물류 흐름이 원활해야 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "비즈니스 기회가 많아지고 물류를 장악해야 시장을 장악할 수 있어요!",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "비즈니스 기회가 많아지고 물류를 장악해야 시장을 장악할 수 있어요!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8007-ba06-cdf258115b6d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8010-9075-f26bff58321d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8081-b7b5-cf7c12a1ff53",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2. 물동량은 왜 중요한데?",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2. 물동량은 왜 중요한데?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8082-81cf-c58cd46e5574",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "1️⃣ 죽고 사는 문제니까.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1️⃣ 죽고 사는 문제니까.",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80e1-8a05-ce5e117b5b0e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "기업에게 물동량 확보는 단순한 성장 전략이 아니라",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "기업에게 물동량 확보는 단순한 성장 전략이 아니라",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "생존",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "생존",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이 걸린 문제",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이 걸린 문제",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "예요. 아무리 좋은 제품을 만들어도 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "예요. 아무리 좋은 제품을 만들어도 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "제때 고객에게 전달되지 않으면 비즈니스는 실패",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "제때 고객에게 전달되지 않으면 비즈니스는 실패",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "할 수밖에 없어요. 특히 온라인 기반 기업들은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "할 수밖에 없어요. 특히 온라인 기반 기업들은 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "배송 속도와 물류 안정성이 경쟁력",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "배송 속도와 물류 안정성이 경쟁력",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이기 때문에, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이기 때문에, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "초기 시장에서 물동량을 빠르게 확보하지 못하면 결국 도태될 가능성이 높아요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "초기 시장에서 물동량을 빠르게 확보하지 못하면 결국 도태될 가능성이 높아요.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 예를 들어, 한국 이커머스 시장에서 티몬과 위메프는 한때 강력한 경쟁자였지만, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 예를 들어, 한국 이커머스 시장에서 티몬과 위메프는 한때 강력한 경쟁자였지만, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "자체 물류망을 구축하지 못해 쿠팡과의 경쟁에서 밀려났어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "자체 물류망을 구축하지 못해 쿠팡과의 경쟁에서 밀려났어요.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 반면, 쿠팡은 2014년 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 반면, 쿠팡은 2014년 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "로켓배송을 출시하면서 출혈 경쟁을 감수하고 공격적인 물류 확장 전략을 펼쳤어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "로켓배송을 출시하면서 출혈 경쟁을 감수하고 공격적인 물류 확장 전략을 펼쳤어요.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 자체 물류센터를 구축하고, 대규모 프로모션을 진행하며 초기 몇 년간 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 자체 물류센터를 구축하고, 대규모 프로모션을 진행하며 초기 몇 년간 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "적자를 감수하면서도 물동량을 확보",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "적자를 감수하면서도 물동량을 확보",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "했죠. 결과적으로 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "했죠. 결과적으로 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "한국 이커머스 시장에서 독보적인 배송 속도를 갖춘 기업으로 자리 잡으며, 시장 점유율을 급격히 늘릴 수 있었어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "한국 이커머스 시장에서 독보적인 배송 속도를 갖춘 기업으로 자리 잡으며, 시장 점유율을 급격히 늘릴 수 있었어요.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "  결국, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "  결국, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "물류를 장악하지 못한 기업들은 경쟁에서 살아남기 어렵다는 걸 보여주는 사례",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "물류를 장악하지 못한 기업들은 경쟁에서 살아남기 어렵다는 걸 보여주는 사례",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8044-9839-c3429b2a9c11",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "또한, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "또한, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "물동량 확보는 단순한 배송 문제를 넘어, 기업의 장기적인 운영 안정성과도 직결",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "물동량 확보는 단순한 배송 문제를 넘어, 기업의 장기적인 운영 안정성과도 직결",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "돼요. 물류가 원활하지 않으면 가장 먼저 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "돼요. 물류가 원활하지 않으면 가장 먼저 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "재고가 쌓이죠. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "재고가 쌓이죠. ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "그리고 이 재고는 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그리고 이 재고는 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "손실로 직결되고 소비자가 상승의 원인이 됩니다",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "손실로 직결되고 소비자가 상승의 원인이 됩니다",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ". 반면, 안정적인 물동량을 확보한 기업들은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ". 반면, 안정적인 물동량을 확보한 기업들은 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "더 낮은 비용으로 제품을 대량 배송할 수 있어, 가격 경쟁력에서도 우위를 점할 수 있어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "더 낮은 비용으로 제품을 대량 배송할 수 있어, 가격 경쟁력에서도 우위를 점할 수 있어요.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 배달의민족은 자체 물류 네트워크를 구축하면서 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 배달의민족은 자체 물류 네트워크를 구축하면서 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "배민B마트 같은 즉시 배송 서비스를 도입해 주문량(=물동량)을 극대화하고 있어요",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "배민B마트 같은 즉시 배송 서비스를 도입해 주문량(=물동량)을 극대화하고 있어요",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ". 이를 통해 쿠팡의 유의미한 경쟁사가 되려 노력중입니다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ". 이를 통해 쿠팡의 유의미한 경쟁사가 되려 노력중입니다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8047-a8f3-c4a4a7e361d8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이렇다보니, 공격적인 마케팅과 출혈 경쟁은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이렇다보니, 공격적인 마케팅과 출혈 경쟁은 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "물동량을 선점하기 위한 일종의 전략이 되었죠",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "물동량을 선점하기 위한 일종의 전략이 되었죠",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ". 폐업보단 지금 당장의 손해가 나으니까요. 기업들은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ". 폐업보단 지금 당장의 손해가 나으니까요. 기업들은 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "공격적인 프로모션, 빠른 배송 서비스",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "공격적인 프로모션, 빠른 배송 서비스",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "를 무기로 시장에 진입하고, 경쟁사보다 더 많은 물량을 처리하면서 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "를 무기로 시장에 진입하고, 경쟁사보다 더 많은 물량을 처리하면서 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "규모의 경제를 확보",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "규모의 경제를 확보",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "하려고 해요. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하려고 해요. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80e0-92eb-f1416f81093f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "결국, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "결국, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "초기 물동량을 확보해 물류 네트워크를 확장하고, 시장에서 지배적인 위치를 선점한 기업이 살아남습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "초기 물동량을 확보해 물류 네트워크를 확장하고, 시장에서 지배적인 위치를 선점한 기업이 살아남습니다.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 기업들이 단기적인 손실을 감수하면서도 공격적인 행보를 보이는 이유는, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 기업들이 단기적인 손실을 감수하면서도 공격적인 행보를 보이는 이유는, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "물동량이 있어야 그들이 살기 때문이에요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "물동량이 있어야 그들이 살기 때문이에요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80de-a00d-c4d2662568c8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2️⃣ 쟤보다 느리면 안된다.. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2️⃣ 쟤보다 느리면 안된다.. ",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8081-adce-dd953dc833a2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "즉시 배송(Quick Commerce) 서비스가 대세가 되면서, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "즉시 배송(Quick Commerce) 서비스가 대세가 되면서, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "배송 속도가 빠를수록 고객 만족도가 높아지고, 느릴수록 이탈률이 급격히 증가하는 시대",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "배송 속도가 빠를수록 고객 만족도가 높아지고, 느릴수록 이탈률이 급격히 증가하는 시대",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "가 됐어요. 소비자들은 이제 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "가 됐어요. 소비자들은 이제 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "주문 후 며칠을 기다리는 게 아니라, 몇 시간 내에 물건을 받는 것을 당연하게 여겨요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "주문 후 며칠을 기다리는 게 아니라, 몇 시간 내에 물건을 받는 것을 당연하게 여겨요.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 이런 시장 흐름 속에서, B마트·요기요마트 같은 기업들이 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 이런 시장 흐름 속에서, B마트·요기요마트 같은 기업들이 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "즉시 배송 서비스를 통해 고객 충성도를 높이고, 기존 유통업체보다 더 빠른 성장을 이뤄낸 이유",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "즉시 배송 서비스를 통해 고객 충성도를 높이고, 기존 유통업체보다 더 빠른 성장을 이뤄낸 이유",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "도 여기에 있어요. 반대로, 빠른 배송을 제공하지 못하는 기업들은 고객의 선택을 받기 어려워지고, 경쟁에서 밀려날 수밖에 없어요. 결국, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "도 여기에 있어요. 반대로, 빠른 배송을 제공하지 못하는 기업들은 고객의 선택을 받기 어려워지고, 경쟁에서 밀려날 수밖에 없어요. 결국, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "빠른 물류 속도를 유지하려면 대규모 물동량을 안정적으로 확보하는 것이 필수적",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "빠른 물류 속도를 유지하려면 대규모 물동량을 안정적으로 확보하는 것이 필수적",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80be-82a1-e0d48e0601f6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "속도를 높이려면 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "속도를 높이려면 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "상품이 언제, 어디서 주문될지 미리 예측하고, 빠르게 출고할 수 있는 물류 시스템이 필요해요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "상품이 언제, 어디서 주문될지 미리 예측하고, 빠르게 출고할 수 있는 물류 시스템이 필요해요.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 즉, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 즉, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "많은 물동량을 확보해 물류망을 최적화해야 속도 경쟁에서 살아남을 수 있어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "많은 물동량을 확보해 물류망을 최적화해야 속도 경쟁에서 살아남을 수 있어요.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 쿠팡이 로켓배송을 운영하면서 한국 이커머스 시장을 장악한 것도, 단순히 배송을 빠르게 했기 때문이 아니라 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 쿠팡이 로켓배송을 운영하면서 한국 이커머스 시장을 장악한 것도, 단순히 배송을 빠르게 했기 때문이 아니라 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "초기부터 대규모 물동량을 기반으로 물류 센터를 전국에 배치하고, AI 기반 수요 예측 시스템을 도입",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "초기부터 대규모 물동량을 기반으로 물류 센터를 전국에 배치하고, AI 기반 수요 예측 시스템을 도입",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "했기 때문이에요. 주문이 들어오면 이미 가까운 물류센터에서 출고가 가능하니, 속도가 빠를 수밖에 없죠. 결국, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "했기 때문이에요. 주문이 들어오면 이미 가까운 물류센터에서 출고가 가능하니, 속도가 빠를 수밖에 없죠. 결국, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "물류 속도를 높이기 위해 물동량을 확보하는 것은 선택이 아니라 생존 전략이 되었어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "물류 속도를 높이기 위해 물동량을 확보하는 것은 선택이 아니라 생존 전략이 되었어요.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8066-ad00-c0cba3b7d52b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "3️⃣ 돈을 써서 돈을 안쓴다(?)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "3️⃣ 돈을 써서 돈을 안쓴다(?)",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8002-95e3-c2a45022cb12",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "기업들이 물류 최적화에 투자하는 이유 중 하나는 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "기업들이 물류 최적화에 투자하는 이유 중 하나는 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "비용 절감",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "비용 절감",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이에요. 물류 비용은 운영비 중 상당한 비율을 차지하기 때문에, 이를 효율적으로 관리하면 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이에요. 물류 비용은 운영비 중 상당한 비율을 차지하기 때문에, 이를 효율적으로 관리하면 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "매출 대비 이익률을 높이는 데 큰 도움이 돼요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "매출 대비 이익률을 높이는 데 큰 도움이 돼요.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 예를 들어, 쿠팡이 전국에 대규모 물류센터를 구축한 이유는 단순히 빠른 배송을 위한 것만이 아니라, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 예를 들어, 쿠팡이 전국에 대규모 물류센터를 구축한 이유는 단순히 빠른 배송을 위한 것만이 아니라, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "물류 이동 거리를 최소화해서 비용을 절감하기 위한 전략이기도 해요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "물류 이동 거리를 최소화해서 비용을 절감하기 위한 전략이기도 해요.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 아마존도 풀필먼트 센터(FC, Fulfillment Center)를 운영하면서, 주문이 들어오면 가장 가까운 창고에서 상품을 출고해 배송 비용을 최소화하고 있어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 아마존도 풀필먼트 센터(FC, Fulfillment Center)를 운영하면서, 주문이 들어오면 가장 가까운 창고에서 상품을 출고해 배송 비용을 최소화하고 있어요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8090-b04a-ce919a088679",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "AI와 빅데이터를 활용한 물류 최적화",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "AI와 빅데이터를 활용한 물류 최적화",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "도 비용 절감의 핵심 전략이에요. AI 기반 물류 관리 시스템을 도입하면 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "도 비용 절감의 핵심 전략이에요. AI 기반 물류 관리 시스템을 도입하면 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "가장 효율적인 배송 경로를 계산하고, 불필요한 이동을 줄여 물류비를 절감",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "가장 효율적인 배송 경로를 계산하고, 불필요한 이동을 줄여 물류비를 절감",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "할 수 있어요. 월마트는 AI를 이용해 배송 트럭의 적재율을 최적화하면서, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "할 수 있어요. 월마트는 AI를 이용해 배송 트럭의 적재율을 최적화하면서, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "연간 물류비를 약 20% 절감",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "연간 물류비를 약 20% 절감",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "하는 데 성공했어요. 또한, 네스프레소 같은 정기 구독 모델을 운영하는 기업들은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하는 데 성공했어요. 또한, 네스프레소 같은 정기 구독 모델을 운영하는 기업들은 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "예측 가능한 주문량을 바탕으로 최적의 물류 운영을 설계하면서 불필요한 물류 비용을 줄이고 있어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "예측 가능한 주문량을 바탕으로 최적의 물류 운영을 설계하면서 불필요한 물류 비용을 줄이고 있어요.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80a3-8961-e080ccd02c5b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "즉, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "즉, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "효율적인 물류 전략을 구축하면, 비용 절감과 동시에 수익성을 극대화할 수 있다는 것",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "효율적인 물류 전략을 구축하면, 비용 절감과 동시에 수익성을 극대화할 수 있다는 것",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이에요. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이에요. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8061-9c12-ef7d4d260de9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "3. 물동량은 어떻게 확보하는데?",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "3. 물동량은 어떻게 확보하는데?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-803b-994f-db6a49df4b09",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이렇게나 중요한 물동량, 기업들은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이렇게나 중요한 물동량, 기업들은 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "어떻게 확보할까요?",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "어떻게 확보할까요?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80c5-a203-d82d646de1b7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "물동량을 안정적으로 확보하기 위한 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "물동량을 안정적으로 확보하기 위한 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "가장 기본적인 전략은 강력한 물류 네트워크를 구축하는 것",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "가장 기본적인 전략은 강력한 물류 네트워크를 구축하는 것",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이에요. 쿠팡은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이에요. 쿠팡은 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "전국에 100개 이상의 물류센터를 운영하면서, 주문이 들어오면 가장 가까운 창고에서 바로 출고할 수 있도록 물류망을 촘촘하게 배치",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "전국에 100개 이상의 물류센터를 운영하면서, 주문이 들어오면 가장 가까운 창고에서 바로 출고할 수 있도록 물류망을 촘촘하게 배치",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "했어요. 쿠팡의 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "했어요. 쿠팡의 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "풀필먼트(Fulfillment) 시스템 역시 강력한 물류 네트워크 구축의 핵심 중 하나입니다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "풀필먼트(Fulfillment) 시스템 역시 강력한 물류 네트워크 구축의 핵심 중 하나입니다. ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "기존의 택배 물류 방식은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "기존의 택배 물류 방식은 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "판매자가 각기 다른 지역에서 출고하는 방식",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "판매자가 각기 다른 지역에서 출고하는 방식",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이지만, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이지만, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "쿠팡은 자체 물류센터에서 직접 출고하는 시스템",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "쿠팡은 자체 물류센터에서 직접 출고하는 시스템",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "을 구축했어요. 덕분에 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "을 구축했어요. 덕분에 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "배송 과정을 단순화하고, 고객과의 거리를 줄이는 효과",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "배송 과정을 단순화하고, 고객과의 거리를 줄이는 효과",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "를 얻었어요. 결과적으로, 이러한 방식을 택한 쿠팡은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "를 얻었어요. 결과적으로, 이러한 방식을 택한 쿠팡은 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "압도적인 물류 네트워크 1등 기업이 되었고",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "압도적인 물류 네트워크 1등 기업이 되었고",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", 물동량 측면에서도 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", 물동량 측면에서도 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "경쟁사들이 쉽게 따라잡을 수 없는 우위를 확보하게 되었어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "경쟁사들이 쉽게 따라잡을 수 없는 우위를 확보하게 되었어요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8054-ac2b-c21cd4ca97bf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "두 번째 전략은 AI·빅데이터를 활용한 수요 예측",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "두 번째 전략은 AI·빅데이터를 활용한 수요 예측",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이에요. 단순히 물류창고를 늘리는 것만으로는 물동량을 확보할 수 없어요. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이에요. 단순히 물류창고를 늘리는 것만으로는 물동량을 확보할 수 없어요. ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "고객 수요를 정확하게 예측하고, 그에 맞춰 재고와 배송 전략을 조정",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "고객 수요를 정확하게 예측하고, 그에 맞춰 재고와 배송 전략을 조정",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "해야 해요. 아마존은 머신러닝을 활용해 고객들이 자주 구매하는 상품을 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "해야 해요. 아마존은 머신러닝을 활용해 고객들이 자주 구매하는 상품을 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "미리 가까운 물류센터로 이동시키는 ‘예측 배송(Predictive Shipping)’ 시스템",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "미리 가까운 물류센터로 이동시키는 ‘예측 배송(Predictive Shipping)’ 시스템",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "을 운영하고 있어요. 덕분에 고객이 주문하는 즉시 물류센터에서 출고할 수 있어, 주문량이 증가해도 원활한 물류 운영이 가능해요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "을 운영하고 있어요. 덕분에 고객이 주문하는 즉시 물류센터에서 출고할 수 있어, 주문량이 증가해도 원활한 물류 운영이 가능해요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8078-ae69-f2de9bdac71b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "구독 모델을 활용한 고정 물동량 확보도 중요한 전략",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "구독 모델을 활용한 고정 물동량 확보도 중요한 전략",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이에요. 이커머스 기업들은 구독 서비스를 도입해 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이에요. 이커머스 기업들은 구독 서비스를 도입해 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "일정한 주기로 제품을 배송하면서, 안정적인 물동량을 유지",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "일정한 주기로 제품을 배송하면서, 안정적인 물동량을 유지",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "하고 있어요. 네스프레소는 정기 구독 모델을 통해 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하고 있어요. 네스프레소는 정기 구독 모델을 통해 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "매달 일정량의 커피 캡슐을 출고하면서, 불규칙한 주문 대비 물류비용을 절감하고, 고객 유지율도 높일 수 있었어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "매달 일정량의 커피 캡슐을 출고하면서, 불규칙한 주문 대비 물류비용을 절감하고, 고객 유지율도 높일 수 있었어요.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 헬로프레시 같은 밀키트 업체들도 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 헬로프레시 같은 밀키트 업체들도 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "정확한 주문량을 예상해 식재료 낭비를 줄이고, 효율적인 물류 시스템을 구축",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "정확한 주문량을 예상해 식재료 낭비를 줄이고, 효율적인 물류 시스템을 구축",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "하고 있어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하고 있어요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8029-9d0e-d1b232d24f0b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이거까지 알면 진짜 좋을텐데..! → 라스트마일(Last Mile) 물류 최적화",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이거까지 알면 진짜 좋을텐데..! → 라스트마일(Last Mile) 물류 최적화",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-80cd-b859-ed5ef209c63c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-8029-9d0e-d1b232d24f0b"
+          },
+          "created_time": "2025-03-08T06:49:00.000Z",
+          "last_edited_time": "2025-03-08T06:49:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "여기서 중요한 개념이 ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "여기서 중요한 개념이 ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "라스트마일(Last Mile) 물류 최적화",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "라스트마일(Last Mile) 물류 최적화",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "예요. 라스트마일 물류는 ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "예요. 라스트마일 물류는 ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "상품이 고객에게 최종 도착하는 마지막 단계",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "상품이 고객에게 최종 도착하는 마지막 단계",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "를 의미하는데, 이 과정에서 ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "를 의미하는데, 이 과정에서 ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "가장 큰 비용과 시간이 소요",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "가장 큰 비용과 시간이 소요",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "돼요. 일반적으로, 물류 거리가 길어질수록 배송 속도가 느려지고 비용이 증가하는데, ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "돼요. 일반적으로, 물류 거리가 길어질수록 배송 속도가 느려지고 비용이 증가하는데, ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "쿠팡은 이를 해결하기 위해 전국적으로 물류센터를 분산 배치하는 전략을 선택",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "쿠팡은 이를 해결하기 위해 전국적으로 물류센터를 분산 배치하는 전략을 선택",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "했어요. 고객과 가까운 곳에 물류센터가 있으면, 상품이 먼 지역에서 이동할 필요 없이 ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "했어요. 고객과 가까운 곳에 물류센터가 있으면, 상품이 먼 지역에서 이동할 필요 없이 ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "바로 가까운 센터에서 출고되기 때문에 배송 속도를 극대화할 수 있는 거죠.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "바로 가까운 센터에서 출고되기 때문에 배송 속도를 극대화할 수 있는 거죠.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-801e-9545-f2fcbf31356e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "4. 그냥 막 구독서비스 하는게 아닙니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "4. 그냥 막 구독서비스 하는게 아닙니다.",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8024-810e-e2d302f22829",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "자, 지금까지 물동량이 무엇이고 왜 중요한지 살펴봤어요. 그렇다면 이제 궁금해지는 건, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "자, 지금까지 물동량이 무엇이고 왜 중요한지 살펴봤어요. 그렇다면 이제 궁금해지는 건, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "왜 기업들이 앞다퉈 구독 서비스를 도입하려 하는가?",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "왜 기업들이 앞다퉈 구독 서비스를 도입하려 하는가?",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 하는 점이겠죠. 사실 구독 서비스는 단순한 유행이 아니라, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 하는 점이겠죠. 사실 구독 서비스는 단순한 유행이 아니라, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "물동량을 안정적으로 확보하고, 이를 기반으로 더 나은 서비스를 제공하기 위한 전략적 선택",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "물동량을 안정적으로 확보하고, 이를 기반으로 더 나은 서비스를 제공하기 위한 전략적 선택",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이에요. 결국, 경쟁에서 우위를 점하기 위해서는 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이에요. 결국, 경쟁에서 우위를 점하기 위해서는 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "꾸준한 물류 흐름을 유지하는 것이 필수적",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "꾸준한 물류 흐름을 유지하는 것이 필수적",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이며, 이를 가능하게 하는 핵심 모델이 바로 구독 서비스입니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이며, 이를 가능하게 하는 핵심 모델이 바로 구독 서비스입니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-803d-a5f9-ec64edeec52e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "구독 서비스(subscription service)는 일정한 주기로 제품이나 서비스를 제공하는 비즈니스 모델이에요. 여기서 물동량은 구독 서비스를 유지하는 데 필수적인 요소예요. 예측 가능한 정기배송 구조 덕분에, 기업들은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "구독 서비스(subscription service)는 일정한 주기로 제품이나 서비스를 제공하는 비즈니스 모델이에요. 여기서 물동량은 구독 서비스를 유지하는 데 필수적인 요소예요. 예측 가능한 정기배송 구조 덕분에, 기업들은 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "고정적인 물류 흐름을 확보",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "고정적인 물류 흐름을 확보",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "할 수 있어요. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "할 수 있어요. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8039-8e3b-d9a67b69240e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "구독 서비스의 가장 큰 장점은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "구독 서비스의 가장 큰 장점은 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "수요 예측이 가능하다는 점",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "수요 예측이 가능하다는 점",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이에요. 일반적인 이커머스 모델에서는 소비자의 주문이 불규칙하게 발생하지만, 구독 서비스는 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이에요. 일반적인 이커머스 모델에서는 소비자의 주문이 불규칙하게 발생하지만, 구독 서비스는 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "예측 가능한 일정에 맞춰 제품을 공급",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "예측 가능한 일정에 맞춰 제품을 공급",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "할 수 있어요. 이는 창고 운영과 배송 계획을 최적화하는 데 유리하고, 물류 비용 절감 효과도 가져와요. 헬로프레시(HelloFresh) 같은 밀키트 구독 서비스는 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "할 수 있어요. 이는 창고 운영과 배송 계획을 최적화하는 데 유리하고, 물류 비용 절감 효과도 가져와요. 헬로프레시(HelloFresh) 같은 밀키트 구독 서비스는 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "정확한 주문량을 예상하여 식재료 낭비를 줄이고, 물류 운영을 효율적으로 관리",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "정확한 주문량을 예상하여 식재료 낭비를 줄이고, 물류 운영을 효율적으로 관리",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "하고 있어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하고 있어요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80d2-9e6b-eb6d349f7760",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "또한, 구독 서비스는 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "또한, 구독 서비스는 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "배송 효율성을 극대화",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "배송 효율성을 극대화",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "할 수 있어요. 고객들에게 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "할 수 있어요. 고객들에게 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "묶음 배송",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "묶음 배송",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "을 제공하거나, 특정 지역 기반의 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "을 제공하거나, 특정 지역 기반의 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "라스트마일 배송 최적화",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "라스트마일 배송 최적화",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "가 가능하기 때문이죠. 예를 들어, 쿠팡 와우 멤버십은 구독자 전용 물류 시스템을 활용해 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "가 가능하기 때문이죠. 예를 들어, 쿠팡 와우 멤버십은 구독자 전용 물류 시스템을 활용해 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "더 빠르고 효율적인 배송",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "더 빠르고 효율적인 배송",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "을 제공하고 있어요. 결국, 구독 서비스가 성장할수록 안정적인 물동량이 확보되고, 기업들은 물류 최적화를 통해 경쟁력을 더욱 강화할 수 있게 되는 거죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "을 제공하고 있어요. 결국, 구독 서비스가 성장할수록 안정적인 물동량이 확보되고, 기업들은 물류 최적화를 통해 경쟁력을 더욱 강화할 수 있게 되는 거죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8001-9f07-e6bef6a94b03",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "결국, 구독 서비스가 성장할수록 안정적인 물동량이 확보되고, 기업들은 물류 최적화를 통해 경쟁력을 더욱 강화할 수 있게 되는 거죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "결국, 구독 서비스가 성장할수록 안정적인 물동량이 확보되고, 기업들은 물류 최적화를 통해 경쟁력을 더욱 강화할 수 있게 되는 거죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8079-8642-db2172248630",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "특히 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "특히 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "쿠팡, 배민과 같은 유통(동시에 이커머스) 기업 입장에서는 소비자에게 빠른 배달·배송을 제공하기 위해 물류센터 자동화, 재고 관리의 효율 극대화가 필수적",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "쿠팡, 배민과 같은 유통(동시에 이커머스) 기업 입장에서는 소비자에게 빠른 배달·배송을 제공하기 위해 물류센터 자동화, 재고 관리의 효율 극대화가 필수적",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이에요. 하지만 적은 주문량으로는 물류 설비를 대규모로 확장하기 어렵죠. 그래서 커머스 기업들은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이에요. 하지만 적은 주문량으로는 물류 설비를 대규모로 확장하기 어렵죠. 그래서 커머스 기업들은 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "구독 서비스를 통해 구매자를 락인(lock-in)하고, 재구매를 유도해 일정 수준의 물동량을 확보",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "구독 서비스를 통해 구매자를 락인(lock-in)하고, 재구매를 유도해 일정 수준의 물동량을 확보",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "하려는 거예요. 즉, 구독 서비스는 단순한 마케팅 전략이 아니라, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하려는 거예요. 즉, 구독 서비스는 단순한 마케팅 전략이 아니라, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "기업의 물류 경쟁력을 높이고 지속 가능한 운영을 가능하게 하는 핵심 수단",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "기업의 물류 경쟁력을 높이고 지속 가능한 운영을 가능하게 하는 핵심 수단",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "인 셈입니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "인 셈입니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8077-ab6b-de0d373497f5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "오늘의 요약",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "오늘의 요약",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8051-b4dd-f5aa89a282ff",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "✔️ ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "✔️ ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "기업의 생존 전략 = 물동량 확보",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "기업의 생존 전략 = 물동량 확보",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80e3-90cd-d75e3b8c6636",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "빠른 배송을 제공하지 못하면 고객 이탈이 발생하고, 시장에서 밀려난다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "빠른 배송을 제공하지 못하면 고객 이탈이 발생하고, 시장에서 밀려난다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-801f-a703-c28826295c29",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "✔️ ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "✔️ ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "라스트마일 최적화는 선택이 아닌 필수",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "라스트마일 최적화는 선택이 아닌 필수",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80ca-a739-ceb0ebdafab3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "전국 단위 물류센터 배치는 단순한 창고 확장이 아니라, 빠른 배송을 위한 핵심 전략이다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "전국 단위 물류센터 배치는 단순한 창고 확장이 아니라, 빠른 배송을 위한 핵심 전략이다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8029-8a40-d15f4573a7c3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "✔️ ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "✔️ ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "구독 서비스는 물류 최적화의 강력한 무기",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "구독 서비스는 물류 최적화의 강력한 무기",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80fd-94ab-d8b30832ac38",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "일정한 물동량을 유지하면서, 물류 비용을 절감하고 고객 충성도를 높인다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "일정한 물동량을 유지하면서, 물류 비용을 절감하고 고객 충성도를 높인다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8059-865a-d64ede4aa44b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80b7-9ea6-f1ba36aee8b8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "created_time": "2025-03-08T06:49:00.000Z",
+      "last_edited_time": "2025-03-08T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}

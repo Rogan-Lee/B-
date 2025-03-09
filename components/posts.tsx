@@ -4,7 +4,7 @@ import posts from '../content/posts'
 export function BlogPosts() {
 
   return (
-    <div>
+    <div className="bg-white dark:bg-[#191414] rounded-2xl">
       {posts
         .sort((a, b) => {
           if (
@@ -26,6 +26,9 @@ export function BlogPosts() {
               </p>
               <p className="text-neutral-900 dark:text-neutral-100 tracking-tight">
                 {post.title}
+              </p>
+              <p className="text-neutral-500 dark:text-neutral-400 text-sm">
+                {post.author}
               </p>
             </div>
           </Link>

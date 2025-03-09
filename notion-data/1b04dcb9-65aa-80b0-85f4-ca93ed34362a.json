@@ -1,0 +1,4223 @@
+{
+  "object": "page",
+  "id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a",
+  "created_time": "2025-03-08T06:37:00.000Z",
+  "last_edited_time": "2025-03-08T06:40:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "19d4dcb9-65aa-8001-a3bc-f5395e0813dc"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "글로벌 기업에 매달 꼬박꼬박 10만원씩 월세를 냅니다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "글로벌 기업에 매달 꼬박꼬박 10만원씩 월세를 냅니다.",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/10-1b04dcb965aa80b085f4ca93ed34362a",
+  "public_url": null,
+  "request_id": "534b3aab-f3c7-4c8a-91fd-a7e6c5998e44",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80c0-9131-f585fc097c4f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {},
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-803f-b4e6-f18aecff08cf",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-80c0-9131-f585fc097c4f"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {},
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1b04dcb9-65aa-8044-95b7-fae625611bb7",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1b04dcb9-65aa-803f-b4e6-f18aecff08cf"
+              },
+              "created_time": "2025-03-08T06:40:00.000Z",
+              "last_edited_time": "2025-03-08T06:40:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "heading_3",
+              "heading_3": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "준마이\n@JUNMAI",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "준마이\n@JUNMAI",
+                    "href": null
+                  }
+                ],
+                "is_toggleable": false,
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-80bb-9b03-ffe10c943141",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-80c0-9131-f585fc097c4f"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {},
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1b04dcb9-65aa-80f8-935f-e298b137b02d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1b04dcb9-65aa-80bb-9b03-ffe10c943141"
+              },
+              "created_time": "2025-03-08T06:40:00.000Z",
+              "last_edited_time": "2025-03-08T06:40:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "linkedin\n",
+                      "link": {
+                        "url": "https://www.linkedin.com/in/joonjoonman/"
+                      }
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "linkedin\n",
+                    "href": "https://www.linkedin.com/in/joonjoonman/"
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "brunch",
+                      "link": {
+                        "url": "https://brunch.co.kr/@joonmai"
+                      }
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "brunch",
+                    "href": "https://brunch.co.kr/@joonmai"
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-808d-a720-f61e466a0681",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8011-9121-efabff04b1dc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“이번 주에는 돈 좀 아껴 써야겠다…”고 생각할 즈음에 남은 돈을 이리 저리 혼자 계산해보다가 갑자기 문자 한 통이 날아온다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“이번 주에는 돈 좀 아껴 써야겠다…”고 생각할 즈음에 남은 돈을 이리 저리 혼자 계산해보다가 갑자기 문자 한 통이 날아온다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8060-a8f2-dd765b39ff26",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "[Web발신]\n[신한체크승인] 준*이(0000) 01/01 09:30\n(금액)18,500원 넷플릭스서비시스코리아 유",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "[Web발신]\n[신한체크승인] 준*이(0000) 01/01 09:30\n(금액)18,500원 넷플릭스서비시스코리아 유",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "💡"
+        },
+        "color": "gray_background"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80d3-8ce5-dc0b3c85011e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\n‘넷플릭스 너 이자식… 지난달 흑백요리사를 재밌게 보여주길래 너 만큼은 믿고 있었건만…’\n나름 계획적으로 소비하고 있다고 착각하고 있었지만, 나의 대단한 착각, 천만의 말씀 만만의 콩떡 이다. 억 명 단위 유저를 가진 글로벌 OTT 서비스 넷플릭스는, 내가 허리띠를 졸라 메어 합리적으로 소비하고 있다고 방심한 틈을 타서 나의 통장에 손을 뻗고, 기습 공격으로 돈을 빼내간다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\n‘넷플릭스 너 이자식… 지난달 흑백요리사를 재밌게 보여주길래 너 만큼은 믿고 있었건만…’\n나름 계획적으로 소비하고 있다고 착각하고 있었지만, 나의 대단한 착각, 천만의 말씀 만만의 콩떡 이다. 억 명 단위 유저를 가진 글로벌 OTT 서비스 넷플릭스는, 내가 허리띠를 졸라 메어 합리적으로 소비하고 있다고 방심한 틈을 타서 나의 통장에 손을 뻗고, 기습 공격으로 돈을 빼내간다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8030-a989-c53993d03083",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [
+          {
+            "type": "text",
+            "text": {
+              "content": "어어 그건 제 잔상입니다만? 싶을 정도로, 구독해둔 서비스들은 냉큼 내 통장에서 돈을 빼 간다. \n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "어어 그건 제 잔상입니다만? 싶을 정도로, 구독해둔 서비스들은 냉큼 내 통장에서 돈을 빼 간다. \n",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "(처음부터 뭘 구독하고 있는지 관리를 안 한 내 잘못인 거 안다… 하지만 억울하다구요)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": true,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(처음부터 뭘 구독하고 있는지 관리를 안 한 내 잘못인 거 안다… 하지만 억울하다구요)",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "  ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "  ",
+            "href": null
+          }
+        ],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1b04dcb9-65aa-80b0-85f4-ca93ed34362a/image_1.png",
+          "expiry_time": "2025-03-08T07:41:33.647Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80fd-80d7-d674f722e5d1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "월에 몇 번은 이런 일이 반복되자, 화가 잔뜩 나서 구독 서비스들을 한 번 정리해보기로 했다. 아래의 표는 내가 매월 구독하고 있는 서비스들을 정리한 것이다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "월에 몇 번은 이런 일이 반복되자, 화가 잔뜩 나서 구독 서비스들을 한 번 정리해보기로 했다. 아래의 표는 내가 매월 구독하고 있는 서비스들을 정리한 것이다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8018-b095-ecd24e789614",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "table",
+      "table": {
+        "table_width": 7,
+        "has_column_header": true,
+        "has_row_header": true
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-80ee-9b8b-f636ffe3118f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-8018-b095-ecd24e789614"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "netflix/4",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "netflix/4",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "youtube",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "youtube",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "coupang",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "coupang",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "google drive",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "google drive",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "icloud",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "icloud",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "gpt",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "gpt",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-809c-9377-c91e81bbd398",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-8018-b095-ecd24e789614"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "가격",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "가격",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "₩4,625",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "₩4,625",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "₩14,900",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "₩14,900",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "₩7,890",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "₩7,890",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "₩29,000",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "₩29,000",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "₩14,000",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "₩14,000",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "₩29,000",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "₩29,000",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-801c-8837-c14248a76e95",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-8018-b095-ecd24e789614"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "비중",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "비중",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "4.65%",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "4.65%",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "14.99%",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "14.99%",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "7.94%",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "7.94%",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "29.17%",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "gray_background"
+                  },
+                  "plain_text": "29.17%",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "14.08%",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "14.08%",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "29.17%",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "gray_background"
+                  },
+                  "plain_text": "29.17%",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80d2-9556-f723e417ad1e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80e3-9ca1-d05a020a0929",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "구글 드라이브, 지피티만 합쳐도 벌써 5만 원이 넘는다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "구글 드라이브, 지피티만 합쳐도 벌써 5만 원이 넘는다.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 전기세, 수도세, 가스비를 다 합쳐도 10만 원이 나올까 말까 한데, 이런 젠장, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 전기세, 수도세, 가스비를 다 합쳐도 10만 원이 나올까 말까 한데, 이런 젠장, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "지금 월 구독 서비스에 쓰는 돈을 다 합쳐 보니 거진 10만 원이다. 내가 무슨 부귀영화를 누리겠다고,",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "지금 월 구독 서비스에 쓰는 돈을 다 합쳐 보니 거진 10만 원이다. 내가 무슨 부귀영화를 누리겠다고,",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 돈도 없는 내가 월 10만 원을 따박따박 월세처럼 내고 있었다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 돈도 없는 내가 월 10만 원을 따박따박 월세처럼 내고 있었다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8010-beac-f877f4768413",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "구독으로 서비스를 만들면 매번 반복적으로 수익이 들어올테니, 아무래도 회사 입장에선 매력적이라 참 좋겠다. 내가 그 회사 직원인데, 매월 반복적으로 매출이 고정되어있다? 진짜 환상적이다. 최고다, 생각만해도 (기쁨의) 눈물이 난다. 구독 이탈만 막으면 당장 회사에 돈이 빠져나갈 일이 없다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "구독으로 서비스를 만들면 매번 반복적으로 수익이 들어올테니, 아무래도 회사 입장에선 매력적이라 참 좋겠다. 내가 그 회사 직원인데, 매월 반복적으로 매출이 고정되어있다? 진짜 환상적이다. 최고다, 생각만해도 (기쁨의) 눈물이 난다. 구독 이탈만 막으면 당장 회사에 돈이 빠져나갈 일이 없다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8098-aefd-efb2d23c0d4d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1b04dcb9-65aa-80b0-85f4-ca93ed34362a/image_2.png",
+          "expiry_time": "2025-03-08T07:41:33.638Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-809f-bf94-d48a4529bfdc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-808a-aaaf-fefe55fbd5c0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " 근데 이거 좀 이상하다. 가만히 보면 좀 괘씸하다. 열심히 뭔가 합리적인 가격을 정해서 구독을 굴리는 것처럼 하지만, 그냥 인간의 망각을 활용해서 돈 버는 거 아닌가? 나는 매월 14일, 17일, 20일마다 이런저런 구독료가 빠져나간다. 까먹고 있던 나는 출금 알림이 뜰 때마다, ‘이런 빌어먹을, 나 이거 구독했었구나!’ 하고 통장에서 와르르 돈이 빠져나가는 걸 보고 운다. 그리고 멍청하게도 다시 그 서비스를 열심히 쓴다. 솔직히 말해, 삥뜯기는 거 같다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 근데 이거 좀 이상하다. 가만히 보면 좀 괘씸하다. 열심히 뭔가 합리적인 가격을 정해서 구독을 굴리는 것처럼 하지만, 그냥 인간의 망각을 활용해서 돈 버는 거 아닌가? 나는 매월 14일, 17일, 20일마다 이런저런 구독료가 빠져나간다. 까먹고 있던 나는 출금 알림이 뜰 때마다, ‘이런 빌어먹을, 나 이거 구독했었구나!’ 하고 통장에서 와르르 돈이 빠져나가는 걸 보고 운다. 그리고 멍청하게도 다시 그 서비스를 열심히 쓴다. 솔직히 말해, 삥뜯기는 거 같다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8086-912e-ea6aa9f6bcb0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8041-89e2-cfb95756aaa3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "지금까지 구독에 쓴 누적액 계산해보기",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "지금까지 구독에 쓴 누적액 계산해보기",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8092-a678-c83b44376578",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "억울해서 계산해봤다. 아래는 구독한 것들에 대한 누적 추산액이다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "억울해서 계산해봤다. 아래는 구독한 것들에 대한 누적 추산액이다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8053-81a1-df778f15dc40",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "table",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-8090-be1a-fbdc50114acf",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-8053-81a1-df778f15dc40"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "구독 서비스",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "구독 서비스",
+                  "href": null
+                }
+              ],
+              []
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-80d9-ae29-fe9162b5fce0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-8053-81a1-df778f15dc40"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "넷플릭스",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "넷플릭스",
+                  "href": null
+                }
+              ],
+              []
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-806a-a7e4-db89dc901f67",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-8053-81a1-df778f15dc40"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "쿠팡",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "쿠팡",
+                  "href": null
+                }
+              ],
+              []
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-8033-a657-e96e88341d8e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-8053-81a1-df778f15dc40"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [],
+              []
+            ]
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80da-bfb8-e0c50e45421c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "<넷플릭스> 4년, 약 16만 원 : ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "<넷플릭스> 4년, 약 16만 원 : ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "\n나눠서 써서 금액이 크지 않다. 나쁘지 않다. 극장 가서 1만 원짜리 영화를 16편 봤다고 쳐도? 그것보다 훨씬 많이 봤다. 이 돈은 길에 버린 느낌이 아니다. 내 머릿속에 지식과 재미로 저장되어 잘 소화되었다. 앞으로도 넙죽넙죽 기꺼이 상납하도록 하겠다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\n나눠서 써서 금액이 크지 않다. 나쁘지 않다. 극장 가서 1만 원짜리 영화를 16편 봤다고 쳐도? 그것보다 훨씬 많이 봤다. 이 돈은 길에 버린 느낌이 아니다. 내 머릿속에 지식과 재미로 저장되어 잘 소화되었다. 앞으로도 넙죽넙죽 기꺼이 상납하도록 하겠다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8082-bd3e-f02bc0a4a5d9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "<쿠팡> 5년, 약 30만원 :",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "<쿠팡> 5년, 약 30만원 :",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-806b-a588-d7ddab7906c3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "나쁘지 않다. 쿠팡으로 아낀 배송비를 모으면 딱 저 정도 되려나. 더 많을 것 같다. 그리고 더욱이나 쿠팡 덕분에 수많은 난관을 헤쳐 나갔다. 당장 내일 필요한 것들을 최저가로 배송받기, 해외 물건 빠르게 구해 오기 등등 쿠팡은 대학 생활에 있어서, 삶에 있어서 참 기특한 존재였다. 전혀 아깝지 않았다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "나쁘지 않다. 쿠팡으로 아낀 배송비를 모으면 딱 저 정도 되려나. 더 많을 것 같다. 그리고 더욱이나 쿠팡 덕분에 수많은 난관을 헤쳐 나갔다. 당장 내일 필요한 것들을 최저가로 배송받기, 해외 물건 빠르게 구해 오기 등등 쿠팡은 대학 생활에 있어서, 삶에 있어서 참 기특한 존재였다. 전혀 아깝지 않았다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80d4-90f0-fc053f409d44",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "<GPT> 2년, 약 60만 원 :",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "<GPT> 2년, 약 60만 원 :",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8034-83fe-c32a61aab803",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "비싸긴 하다. 그러나, 60만 원으로 내가 만들어 낸 것들을 생각해 보면 진짜 싸다. GPT 덕분에 파이썬도 배웠다. 웹사이트도 만들었다. 이력서도 썼고, 포트폴리오도 만들었다. 앞으로 일할 때 GPT가 없으면 내 IQ는 절반 이상으로 하락하며 지속적인 해고 압박에 시달리는 저능아 신세를 면치 못할 것이다. 나는 GPT의 노예이며 앞으로도 충성을 다할 것이다. 전혀 아깝지 않고 더 달라고 하면 냅다 줄 생각이다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "비싸긴 하다. 그러나, 60만 원으로 내가 만들어 낸 것들을 생각해 보면 진짜 싸다. GPT 덕분에 파이썬도 배웠다. 웹사이트도 만들었다. 이력서도 썼고, 포트폴리오도 만들었다. 앞으로 일할 때 GPT가 없으면 내 IQ는 절반 이상으로 하락하며 지속적인 해고 압박에 시달리는 저능아 신세를 면치 못할 것이다. 나는 GPT의 노예이며 앞으로도 충성을 다할 것이다. 전혀 아깝지 않고 더 달라고 하면 냅다 줄 생각이다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80b9-9478-c42c0c47039b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "<유튜브> 10년, 약 100만원 :",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "<유튜브> 10년, 약 100만원 :",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": " ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-805a-a8d6-fdc84d13ded4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "세상 고약한 놈이 따로없다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "세상 고약한 놈이 따로없다.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": " ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "최악이다. 끔찍하다. 내 인생이 망한다면 유튜브 탓이다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "최악이다. 끔찍하다. 내 인생이 망한다면 유튜브 탓이다. ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "고등학교 때 내 기억이 맞다면 ‘유튜브 레드’라는 이름으로 구독을 처음 시작했다. 그때부터 지금까지 한 번도 빠짐없이 구독해왔다. 이유는 간단하다. 화면이 꺼져도 유튜브 화면을 보기 위해서였다. 근데 그게 그렇게까지 중요했냐고? 중요했다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "고등학교 때 내 기억이 맞다면 ‘유튜브 레드’라는 이름으로 구독을 처음 시작했다. 그때부터 지금까지 한 번도 빠짐없이 구독해왔다. 이유는 간단하다. 화면이 꺼져도 유튜브 화면을 보기 위해서였다. 근데 그게 그렇게까지 중요했냐고? 중요했다. ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "나는 유튜브 중독자이기 때문이다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "나는 유튜브 중독자이기 때문이다.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 이 구독은 마약과 다름없으며 사실상 삶을 좀먹는다는 표현까지 어울린다. 그렇다고 구독을 취소하냐? 아니다. 중독은 무섭다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 이 구독은 마약과 다름없으며 사실상 삶을 좀먹는다는 표현까지 어울린다. 그렇다고 구독을 취소하냐? 아니다. 중독은 무섭다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-809e-8c92-cfeff119b6b9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8007-8429-f7c663aac8a7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "구독에 쓴 시간 계산해보기",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "구독에 쓴 시간 계산해보기",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8005-80ef-f089ccd14ec2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "내 스크린타임을 공유하면 보는 사람들은 혀를 차며 ‘참 슬픈 인생이네’라고 말할 수도 있지만 기꺼이 공개한다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "내 스크린타임을 공유하면 보는 사람들은 혀를 차며 ‘참 슬픈 인생이네’라고 말할 수도 있지만 기꺼이 공개한다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-807b-b914-edb8624568ca",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {},
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-80e1-8b5b-f74a7c8c82ee",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-807b-b914-edb8624568ca"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {},
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1b04dcb9-65aa-8043-bc68-e27837dc56c9",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1b04dcb9-65aa-80e1-8b5b-f74a7c8c82ee"
+              },
+              "created_time": "2025-03-08T06:40:00.000Z",
+              "last_edited_time": "2025-03-08T06:40:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "12월 4째 주단위 스크린타임",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "12월 4째 주단위 스크린타임",
+                    "href": null
+                  }
+                ],
+                "type": "file",
+                "file": {
+                  "url": "/notion-data/1b04dcb9-65aa-80b0-85f4-ca93ed34362a/image_3.jpg",
+                  "expiry_time": "2025-03-08T07:41:34.490Z"
+                }
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "1b04dcb9-65aa-80e1-a41e-f66043ee2c6f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1b04dcb9-65aa-80e1-8b5b-f74a7c8c82ee"
+              },
+              "created_time": "2025-03-08T06:40:00.000Z",
+              "last_edited_time": "2025-03-08T06:40:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-8067-829d-c95280e78c3f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-807b-b914-edb8624568ca"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {},
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1b04dcb9-65aa-80ad-ab01-c19df94069d9",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1b04dcb9-65aa-8067-829d-c95280e78c3f"
+              },
+              "created_time": "2025-03-08T06:40:00.000Z",
+              "last_edited_time": "2025-03-08T06:40:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "1월 1째 주단위 스크린타임",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "1월 1째 주단위 스크린타임",
+                    "href": null
+                  }
+                ],
+                "type": "file",
+                "file": {
+                  "url": "/notion-data/1b04dcb9-65aa-80b0-85f4-ca93ed34362a/image_4.jpg",
+                  "expiry_time": "2025-03-08T07:41:34.425Z"
+                }
+              },
+              "blocks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80b9-8bfc-d20ca5562c25",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8059-984b-d02c43a2d159",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8068-8e93-fd04650952b4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80df-a6ea-fe4d03e835b1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "넷플릭스 시청 시간이 1시간은 족히 넘고 4시간 정도 되어 있는 것을 생각해보면, 이미 이득이다. 집에서 영화 한 편만 보아도 이미 티켓값은 넘겼다는 기분이 든다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "넷플릭스 시청 시간이 1시간은 족히 넘고 4시간 정도 되어 있는 것을 생각해보면, 이미 이득이다. 집에서 영화 한 편만 보아도 이미 티켓값은 넘겼다는 기분이 든다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8028-a010-c6a496b9841e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80f3-ae37-e3a516cbb7cf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "share of time, share of wallet",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "share of time, share of wallet",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8097-825d-d97eedb9075f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "비즈니스를 두 가지로 나눠서 설명해 보자. 물건을 사고 소유하고 쓰고 버리고 새로운 걸 사고, 먹을 걸 사고 먹고 싸고 또 먹고, 지갑을 열어서 돈을 내고 무언가를 소유한다. share of wallet이다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "비즈니스를 두 가지로 나눠서 설명해 보자. 물건을 사고 소유하고 쓰고 버리고 새로운 걸 사고, 먹을 걸 사고 먹고 싸고 또 먹고, 지갑을 열어서 돈을 내고 무언가를 소유한다. share of wallet이다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8006-82c2-e97b0159bf26",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "새로운 영화를 보고 감상을 나누고, 새로운 영화를 또 찾아보고, 노래를 듣고, 웹툰을 보고, 글을 읽고. 혹은 다른 사람의 일상을 훔쳐보고, 사람의 시간을 뺏은 다음에 어떻게든 돈을 번다. share of time이다. 거창한 개념은 아니고 컨설팅 분야나 경영진이 쓰는 실무 용어 정도로 알고 있다. 아무튼 박지웅 대표가 EO 채널에서 비즈니스 종류를 크게 나눠서 설명할 때 쓰길래 처음 알게 됐다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "새로운 영화를 보고 감상을 나누고, 새로운 영화를 또 찾아보고, 노래를 듣고, 웹툰을 보고, 글을 읽고. 혹은 다른 사람의 일상을 훔쳐보고, 사람의 시간을 뺏은 다음에 어떻게든 돈을 번다. share of time이다. 거창한 개념은 아니고 컨설팅 분야나 경영진이 쓰는 실무 용어 정도로 알고 있다. 아무튼 박지웅 대표가 EO 채널에서 비즈니스 종류를 크게 나눠서 설명할 때 쓰길래 처음 알게 됐다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8081-9aac-e50a242416be",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Share of Wallet",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Share of Wallet",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": \n한 소비자의 전체 지출액 중 특정 브랜드가 차지하는 비중을 의미한다. 1990년대 이후 마케팅·컨설팅 분야에서 본격적으로 사용되기 시작했으며, 고객 충성도와 지출 확대 전략을 수립할 때 핵심 지표로 언급된다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": \n한 소비자의 전체 지출액 중 특정 브랜드가 차지하는 비중을 의미한다. 1990년대 이후 마케팅·컨설팅 분야에서 본격적으로 사용되기 시작했으며, 고객 충성도와 지출 확대 전략을 수립할 때 핵심 지표로 언급된다.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "💡"
+        },
+        "color": "gray_background"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-800a-a406-e5807c31e28d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-8081-9aac-e50a242416be"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-80f5-89c7-eb0052a5f3ae",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-8081-9aac-e50a242416be"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Share of Time",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Share of Time",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ": \n한 소비자의 총 사용 가능 시간(하루/한 달 등) 가운데 특정 서비스나 플랫폼이 차지하는 비중을 가리킨다. 스마트폰·온라인 플랫폼이 확산된 2010년대 이후, 디지털 미디어 및 광고 업계에서 ‘이용자 체류 시간’을 파악하기 위한 지표로 주로 사용된다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ": \n한 소비자의 총 사용 가능 시간(하루/한 달 등) 가운데 특정 서비스나 플랫폼이 차지하는 비중을 가리킨다. 스마트폰·온라인 플랫폼이 확산된 2010년대 이후, 디지털 미디어 및 광고 업계에서 ‘이용자 체류 시간’을 파악하기 위한 지표로 주로 사용된다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8026-a60b-f407e3d45392",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "지출 여력이 낮은 ‘타임 빌게이츠’인 나는 시간 도둑들에게 꽤 많은 돈을 내고 있었다. 거의 월세처럼, 혹은 세금처럼. 이게 구독 서비스의 천재적 발상이라고 생각된다. 구독은 지불 여력이 낮은 사람들에게도 저렴한 가격으로 고정적이고 안정적인 수익을 얻을 수 있는 구조다. 그래서 그런가, 많은 창업자가 SaaS를 출시하고 나면 냅다 구독으로 돈을 벌겠다고 선언하거나, 앞으로 그렇게 돈을 벌 거라고 광고하거나, 지금 그렇게 벌고 있다고 선전한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "지출 여력이 낮은 ‘타임 빌게이츠’인 나는 시간 도둑들에게 꽤 많은 돈을 내고 있었다. 거의 월세처럼, 혹은 세금처럼. 이게 구독 서비스의 천재적 발상이라고 생각된다. 구독은 지불 여력이 낮은 사람들에게도 저렴한 가격으로 고정적이고 안정적인 수익을 얻을 수 있는 구조다. 그래서 그런가, 많은 창업자가 SaaS를 출시하고 나면 냅다 구독으로 돈을 벌겠다고 선언하거나, 앞으로 그렇게 돈을 벌 거라고 광고하거나, 지금 그렇게 벌고 있다고 선전한다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8024-9cf3-f44b2ba3326d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그런데 사실 이 발상에는 큰 함정이 있다. 준거가치의 유무이다. 내가 넷플릭스에 내는 돈이 아깝지 않은 이유는 CGV 티켓 값보다 월등히 싸기 때문이다. 내가 와우 회원권을 기꺼이 구독한 이유는 배송료가 붙어서 물건을 살 때 얼마나 손해를 봤는지에 대한 기준이 있기 때문이다. 내가 GPT에 기꺼이 돈을 쓰는 이유는 그걸 통해 얻을 수 있는 금전적, 지적 혜택이 그 이상임을 잘 알고 있기 때문이다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그런데 사실 이 발상에는 큰 함정이 있다. 준거가치의 유무이다. 내가 넷플릭스에 내는 돈이 아깝지 않은 이유는 CGV 티켓 값보다 월등히 싸기 때문이다. 내가 와우 회원권을 기꺼이 구독한 이유는 배송료가 붙어서 물건을 살 때 얼마나 손해를 봤는지에 대한 기준이 있기 때문이다. 내가 GPT에 기꺼이 돈을 쓰는 이유는 그걸 통해 얻을 수 있는 금전적, 지적 혜택이 그 이상임을 잘 알고 있기 때문이다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80ea-9917-cd0eae55e321",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [],
+        "icon": {
+          "type": "emoji",
+          "emoji": "💡"
+        },
+        "color": "gray_background"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-80d6-82f6-da96d85a5b66",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-80ea-9917-cd0eae55e321"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "heading_3",
+          "heading_3": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "준거가치(準據價値, Reference Value)란?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "준거가치(準據價値, Reference Value)란?",
+                "href": null
+              }
+            ],
+            "is_toggleable": false,
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-80e2-9094-f759561c5b12",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-80ea-9917-cd0eae55e321"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "'준거가치'는 어떤 대상이나 현상의 가치를 평가할 때 기준이 되는 가치.\n쉽게 말해, ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "'준거가치'는 어떤 대상이나 현상의 가치를 평가할 때 기준이 되는 가치.\n쉽게 말해, ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "비교의 기준이 되는 가치",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "비교의 기준이 되는 가치",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ".",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ".",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-80da-a726-cfb9439da72e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-80ea-9917-cd0eae55e321"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-808b-a962-e343fe9104df",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-80ea-9917-cd0eae55e321"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "마케팅 예시",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "마케팅 예시",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-8081-8646-f7421e21f1f2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-80ea-9917-cd0eae55e321"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "소비자가 제품의 가격을 평가할 때, 기존에 알고 있던 가격이나 경쟁 제품의 가격을 기준으로 삼는 것이 준거가치이다. 예를 들어, A라는 제품이 10만 원인데, 비슷한 B 제품이 8만 원이면, 소비자는 A가 비싸다고 느낄 수 있다. 여기서 B 제품의 가격이 준거가치가 된다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "소비자가 제품의 가격을 평가할 때, 기존에 알고 있던 가격이나 경쟁 제품의 가격을 기준으로 삼는 것이 준거가치이다. 예를 들어, A라는 제품이 10만 원인데, 비슷한 B 제품이 8만 원이면, 소비자는 A가 비싸다고 느낄 수 있다. 여기서 B 제품의 가격이 준거가치가 된다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-800a-9688-f49b69a8ae27",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-80ea-9917-cd0eae55e321"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "심리학 / 행동경제학",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "심리학 / 행동경제학",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-80dc-87a1-ce15f04a3595",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-80ea-9917-cd0eae55e321"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "사람들은 절대적인 가치보다 상대적인 가치를 더 중요하게 여긴다. 예를 들어, 월급을 500만 원 받는 사람이 주변 사람들이 700만 원을 받으면 자신의 급여가 낮다고 느낀다. 여기서 '주변 사람들의 급여'가 준거가치 역할을 한다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "사람들은 절대적인 가치보다 상대적인 가치를 더 중요하게 여긴다. 예를 들어, 월급을 500만 원 받는 사람이 주변 사람들이 700만 원을 받으면 자신의 급여가 낮다고 느낀다. 여기서 '주변 사람들의 급여'가 준거가치 역할을 한다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80ca-abd2-fcface9330ee",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "지금 언급한 구독 서비스들은 이전의 경험을 토대로 어떤 혜택을 주는지가 명확하다. 이걸 준거가치라고 표현하겠다. 지난 지출에 대한 기억을 통해 내가 할 행동이 얼마의 값어치가 있는지 대략적인 감이 선다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "지금 언급한 구독 서비스들은 이전의 경험을 토대로 어떤 혜택을 주는지가 명확하다. 이걸 준거가치라고 표현하겠다. 지난 지출에 대한 기억을 통해 내가 할 행동이 얼마의 값어치가 있는지 대략적인 감이 선다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8082-be8b-c216462eba1d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "백덤블링을 하는 방법을 알려주는 온라인 녹화 강의 100편을 매월 5,000원에 구독할 수 있다고 한다면, 나는 몽둥이로 뚜들겨 맞지 않는 이상 절대 사지 않는다. 1,000원이든, 100원이든 무가치한 것들에는 아무리 저렴하다 한들 절대로 구독하지 않을 것이다. 우리가 구독하는 것들은 보통 우리가 이전에 매월 반복적으로 하는 행동들에서 느꼈던 불편을 해결해 주거나, 더 저렴하게 해 주고 있다. 월 판매량이 적다던가, 결제 직전까지 이어지는 고객이 적다던가, 수많은 비즈니스 문제들이 있을 것이다. 그런데 이 문제를 요술방망이 마냥 구독으로 바꾸면 해결된다는 발상이 자주 발견되는 것 같다. 특히 교내 창업 관련 수업이나 공모전에 제출된 기획안에서 왕왕 본 적이 있다. 나아가, 새로 런칭한 서비스라고 해서 ‘한 번 써볼까’ 하고 들어갔다가 구독 요금제가 떠 있는 페이지를 보고선 이런 감상을 느낀 적이 있다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "백덤블링을 하는 방법을 알려주는 온라인 녹화 강의 100편을 매월 5,000원에 구독할 수 있다고 한다면, 나는 몽둥이로 뚜들겨 맞지 않는 이상 절대 사지 않는다. 1,000원이든, 100원이든 무가치한 것들에는 아무리 저렴하다 한들 절대로 구독하지 않을 것이다. 우리가 구독하는 것들은 보통 우리가 이전에 매월 반복적으로 하는 행동들에서 느꼈던 불편을 해결해 주거나, 더 저렴하게 해 주고 있다. 월 판매량이 적다던가, 결제 직전까지 이어지는 고객이 적다던가, 수많은 비즈니스 문제들이 있을 것이다. 그런데 이 문제를 요술방망이 마냥 구독으로 바꾸면 해결된다는 발상이 자주 발견되는 것 같다. 특히 교내 창업 관련 수업이나 공모전에 제출된 기획안에서 왕왕 본 적이 있다. 나아가, 새로 런칭한 서비스라고 해서 ‘한 번 써볼까’ 하고 들어갔다가 구독 요금제가 떠 있는 페이지를 보고선 이런 감상을 느낀 적이 있다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80d2-a8f8-eb0e698c5c98",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "세상에는 없던 완전 새로운 가치는 존재하지 않는다고 생각한다. 작은 불편이지만 해소됐을 때 그 쾌감이 큰 것들은 있는 것 같다. 큰 불편이지만 해소될 필요가 없는 것들도 있다. 반대로 초콜릿이나 비타민처럼 해결이 아니라 삶의 +를 만들어주는 것들도 있다. 구독 서비스를 고민하고 있다면 준거가치가 무엇인지 한 번 고민해 보면 좋겠다. 특히 그 서비스가 share of time이라면, 더더욱 깊게 고민해 볼 필요가 있다고 생각한다. 매달 한 사람의 시간을 뺏고 있는 서비스는 한 사람이 밥을 먹거나, 사랑하는 이와 대화하거나, 좋은 것을 볼 시간을 포기하고 그 서비스를 써야 할 명분이 있는 서비스이니만큼.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "세상에는 없던 완전 새로운 가치는 존재하지 않는다고 생각한다. 작은 불편이지만 해소됐을 때 그 쾌감이 큰 것들은 있는 것 같다. 큰 불편이지만 해소될 필요가 없는 것들도 있다. 반대로 초콜릿이나 비타민처럼 해결이 아니라 삶의 +를 만들어주는 것들도 있다. 구독 서비스를 고민하고 있다면 준거가치가 무엇인지 한 번 고민해 보면 좋겠다. 특히 그 서비스가 share of time이라면, 더더욱 깊게 고민해 볼 필요가 있다고 생각한다. 매달 한 사람의 시간을 뺏고 있는 서비스는 한 사람이 밥을 먹거나, 사랑하는 이와 대화하거나, 좋은 것을 볼 시간을 포기하고 그 서비스를 써야 할 명분이 있는 서비스이니만큼.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80ac-88b0-f3d9c88d7786",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80ed-8e8f-c192f6444f5d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8033-8743-cb4ba7cd1b46",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {},
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-8049-9513-d154bc2fa607",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-8033-8743-cb4ba7cd1b46"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {},
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1b04dcb9-65aa-80e0-ba86-f290178828c0",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1b04dcb9-65aa-8049-9513-d154bc2fa607"
+              },
+              "created_time": "2025-03-08T06:40:00.000Z",
+              "last_edited_time": "2025-03-08T06:40:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "heading_3",
+              "heading_3": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "준마이\n@JUNMAI",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "준마이\n@JUNMAI",
+                    "href": null
+                  }
+                ],
+                "is_toggleable": false,
+                "color": "default"
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "1b04dcb9-65aa-8093-9655-d93deed57e9b",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1b04dcb9-65aa-8049-9513-d154bc2fa607"
+              },
+              "created_time": "2025-03-08T06:40:00.000Z",
+              "last_edited_time": "2025-03-08T06:40:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-8016-b1e6-cba81f9e8d4f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-8033-8743-cb4ba7cd1b46"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {},
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1b04dcb9-65aa-8044-ab2b-dc42f5b12402",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1b04dcb9-65aa-8016-b1e6-cba81f9e8d4f"
+              },
+              "created_time": "2025-03-08T06:40:00.000Z",
+              "last_edited_time": "2025-03-08T06:40:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "linkedin",
+                      "link": {
+                        "url": "https://www.linkedin.com/in/joonjoonman/"
+                      }
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "linkedin",
+                    "href": "https://www.linkedin.com/in/joonjoonman/"
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "1b04dcb9-65aa-80a0-8592-de6c5091c55f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1b04dcb9-65aa-8016-b1e6-cba81f9e8d4f"
+              },
+              "created_time": "2025-03-08T06:40:00.000Z",
+              "last_edited_time": "2025-03-08T06:40:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "brunch",
+                      "link": {
+                        "url": "https://brunch.co.kr/@joonmai"
+                      }
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "brunch",
+                    "href": "https://brunch.co.kr/@joonmai"
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8068-aa1f-db34f5f974c3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80bb-8e99-d4263b1afe7d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80ee-b033-f20c10448c74",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-804e-aa73-df427129b527",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "댓글",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "댓글",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-8097-a0e9-e480a110726b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-804e-aa73-df427129b527"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-80c8-8834-d977b3d05b68",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-804e-aa73-df427129b527"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "구독의 1세대 넷플릭스에 대해 알아보자.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": true,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "구독의 1세대 넷플릭스에 대해 알아보자.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-806d-bb6b-e69da0071583",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-804e-aa73-df427129b527"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "시발. 그만 알아보자. 좀 찾아보니 중요한 건 그게 아니다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "시발. 그만 알아보자. 좀 찾아보니 중요한 건 그게 아니다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8060-8154-dec7ac98031a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "created_time": "2025-03-08T06:40:00.000Z",
+      "last_edited_time": "2025-03-08T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "아이디어 노트",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "아이디어 노트",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-807c-b776-d536f65159f6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-8060-8154-dec7ac98031a"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-805a-b63d-f2a688783e0e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-8060-8154-dec7ac98031a"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "heading_3",
+          "heading_3": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "구독과 할부의 차이",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "구독과 할부의 차이",
+                "href": null
+              }
+            ],
+            "is_toggleable": false,
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-800b-9c20-d56966b6dcee",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-8060-8154-dec7ac98031a"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "카드사가 등 따시고 배부르게 사는 비결도 아마 이론상 이런 ‘매월’ 반복되는 ‘수익’에 있다고 생각한다. 대표적으로 떠오르는 사례는 아마 자동차랑 집. 억 단위의 산더미만 한 돈을 대출받고 매달 이자를 낸다. 도저히 만질 수도 없는 액수를 잘게 쪼개서 갚으면 우리는 먹고사는 데 필요한 것들을 척척 소비하면서 살 수 있다. 은행과 카드사의 할부 구조 덕분에 우리는 비 오는 날 비를 맞지 않는다. 혹은 예쁜 바퀴 달린 자동차를 타고 A부터 B까지 빠르게 간다. 어떻게 보면 참 고맙고 유용하다. 그런데 어떻게 생각해 보면 좀… 족쇄 같다. 하지만 괜찮다. 30년 동안 갚으면 내 것이 된다. ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "카드사가 등 따시고 배부르게 사는 비결도 아마 이론상 이런 ‘매월’ 반복되는 ‘수익’에 있다고 생각한다. 대표적으로 떠오르는 사례는 아마 자동차랑 집. 억 단위의 산더미만 한 돈을 대출받고 매달 이자를 낸다. 도저히 만질 수도 없는 액수를 잘게 쪼개서 갚으면 우리는 먹고사는 데 필요한 것들을 척척 소비하면서 살 수 있다. 은행과 카드사의 할부 구조 덕분에 우리는 비 오는 날 비를 맞지 않는다. 혹은 예쁜 바퀴 달린 자동차를 타고 A부터 B까지 빠르게 간다. 어떻게 보면 참 고맙고 유용하다. 그런데 어떻게 생각해 보면 좀… 족쇄 같다. 하지만 괜찮다. 30년 동안 갚으면 내 것이 된다. ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "(감가상각은 없던 일로 하자)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": true,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "(감가상각은 없던 일로 하자)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b04dcb9-65aa-8045-ac86-fadbd0632b8f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b04dcb9-65aa-8060-8154-dec7ac98031a"
+          },
+          "created_time": "2025-03-08T06:40:00.000Z",
+          "last_edited_time": "2025-03-08T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "반면에 구독은… 그냥 땅바닥에 돈을 버리는 것과 비슷하다. 구독은 소유와 거리가 멀다. 구독은 철저히 소비를 위한 구매 방식이다. 그럼 이제 생각해 보자. 난 왜 소유할 수도 없는 것들을 쓰려고 10만 원씩을 쓰고 있지?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "반면에 구독은… 그냥 땅바닥에 돈을 버리는 것과 비슷하다. 구독은 소유와 거리가 멀다. 구독은 철저히 소비를 위한 구매 방식이다. 그럼 이제 생각해 보자. 난 왜 소유할 수도 없는 것들을 쓰려고 10만 원씩을 쓰고 있지?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    }
+  ]
+}

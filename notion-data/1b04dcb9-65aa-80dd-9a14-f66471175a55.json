@@ -1,0 +1,1052 @@
+{
+  "object": "page",
+  "id": "1b04dcb9-65aa-80dd-9a14-f66471175a55",
+  "created_time": "2025-03-08T07:20:00.000Z",
+  "last_edited_time": "2025-03-08T07:33:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "19d4dcb9-65aa-8001-a3bc-f5395e0813dc"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "숨참구독-다이브",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "숨참구독-다이브",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/1b04dcb965aa80dd9a14f66471175a55",
+  "public_url": "https://roganlee.notion.site/1b04dcb965aa80dd9a14f66471175a55",
+  "request_id": "1364179c-3f3f-4c21-879e-a6f06fb09161",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80db-b9df-e35e0e7315f6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80dd-9a14-f66471175a55"
+      },
+      "created_time": "2025-03-08T07:20:00.000Z",
+      "last_edited_time": "2025-03-08T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80cf-b5c2-cdf9f5dcb328",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80dd-9a14-f66471175a55"
+      },
+      "created_time": "2025-03-08T07:20:00.000Z",
+      "last_edited_time": "2025-03-08T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "여러분은 ‘구독’ 상품을 몇 개나 이용하고 계신가요? \n\n 눈 뜨자마자 확인하는 ‘쿠팡 로켓배송’, 출근길 메이트 ‘유튜브’, 점심시간 ‘위잇 딜라이트’, 퇴근길에 시키는 ‘배달의민족’까지. 이 시대의 평범한 월급쟁이인 저는 한 손으로 다 세기가 어렵습니다. 덕분에 너무 편합니다. 이젠 없이 못 살죠. 다만 매달 줄줄이 빠져나가는 구독료를 보다 보면 무언가 잘못되었음을 느끼기도 합니다.\n\n 이 지점에서 ‘B급 보고’는 우리가 당연하게 흡수했던 구독 서비스의 가치와 의미, 그리고 이로 인해 발생하는 필연적인 00에 대해 생각해보고자 합니다. \n\n “과연 구독은 우리의 삶을 더 다채롭고, 이롭게 해주었을까요?”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "여러분은 ‘구독’ 상품을 몇 개나 이용하고 계신가요? \n\n 눈 뜨자마자 확인하는 ‘쿠팡 로켓배송’, 출근길 메이트 ‘유튜브’, 점심시간 ‘위잇 딜라이트’, 퇴근길에 시키는 ‘배달의민족’까지. 이 시대의 평범한 월급쟁이인 저는 한 손으로 다 세기가 어렵습니다. 덕분에 너무 편합니다. 이젠 없이 못 살죠. 다만 매달 줄줄이 빠져나가는 구독료를 보다 보면 무언가 잘못되었음을 느끼기도 합니다.\n\n 이 지점에서 ‘B급 보고’는 우리가 당연하게 흡수했던 구독 서비스의 가치와 의미, 그리고 이로 인해 발생하는 필연적인 00에 대해 생각해보고자 합니다. \n\n “과연 구독은 우리의 삶을 더 다채롭고, 이롭게 해주었을까요?”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80ea-b424-e96443f45f95",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80dd-9a14-f66471175a55"
+      },
+      "created_time": "2025-03-08T07:20:00.000Z",
+      "last_edited_time": "2025-03-08T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " “구독, 내가 알던 너 맞아?”",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " “구독, 내가 알던 너 맞아?”",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80bb-85ef-d39cfe2c0465",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80dd-9a14-f66471175a55"
+      },
+      "created_time": "2025-03-08T07:20:00.000Z",
+      "last_edited_time": "2025-03-08T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " 구독의 본질은 정기적으로 비용을 지불해 필요한 가치를 얻는 것입니다. OTT(Over the Top)가 이러한 구독 모델을 제대로 구현한 사례죠. 넷플릭스가 보편화되면서 사람들은 영화 한 편의 관람료로 한 달에 수백, 수천개의 영화를 볼 수 있게 되었습니다. 이보다 구독에 대한 만족이 커질 순 없었죠.\n  문제는 구독과 거리가 멀었던 영역에서도 구독을 ‘억지로’ 적용하려는 모습에서 시작됩니다. 이에 단적인 예시로 ‘커머스 기업의 구독 상품’이 있습니다.  대부분의 커머스 기업들은 무료배달(배송), 할인 쿠폰 등으로 구독자에게 혜택을 제공합니다. 이 혜택은 소비자들이 그 플랫폼 혹은 기업에서 ‘충분히’ 지출해야지만, 구독을 통해 얻는 혜택이 커지는 형태이죠. 역설적이게도 돈을 아끼고 싶어서 하는 구독 서비스가 돈을 더 ‘써야 하게’ 구조입니다. 이 부분에서 저흰 생각했습니다. \n\n”구독 서비스가 가져다 줘야 할 ‘편의’가 ‘의무’가 되어버린 요즘, 이게 옳은 변화일까요? 이 피곤한 생태계를 왜 소비자들은 선택하는 걸까요?“",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 구독의 본질은 정기적으로 비용을 지불해 필요한 가치를 얻는 것입니다. OTT(Over the Top)가 이러한 구독 모델을 제대로 구현한 사례죠. 넷플릭스가 보편화되면서 사람들은 영화 한 편의 관람료로 한 달에 수백, 수천개의 영화를 볼 수 있게 되었습니다. 이보다 구독에 대한 만족이 커질 순 없었죠.\n  문제는 구독과 거리가 멀었던 영역에서도 구독을 ‘억지로’ 적용하려는 모습에서 시작됩니다. 이에 단적인 예시로 ‘커머스 기업의 구독 상품’이 있습니다.  대부분의 커머스 기업들은 무료배달(배송), 할인 쿠폰 등으로 구독자에게 혜택을 제공합니다. 이 혜택은 소비자들이 그 플랫폼 혹은 기업에서 ‘충분히’ 지출해야지만, 구독을 통해 얻는 혜택이 커지는 형태이죠. 역설적이게도 돈을 아끼고 싶어서 하는 구독 서비스가 돈을 더 ‘써야 하게’ 구조입니다. 이 부분에서 저흰 생각했습니다. \n\n”구독 서비스가 가져다 줘야 할 ‘편의’가 ‘의무’가 되어버린 요즘, 이게 옳은 변화일까요? 이 피곤한 생태계를 왜 소비자들은 선택하는 걸까요?“",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80ae-b822-dd4f044cb13b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80dd-9a14-f66471175a55"
+      },
+      "created_time": "2025-03-08T07:20:00.000Z",
+      "last_edited_time": "2025-03-08T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "혜택과 계산의 딜레마, 피곤함은 소비자들의 몫? \n”?번 써도 이득이래서 구독했어요”",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "혜택과 계산의 딜레마, 피곤함은 소비자들의 몫? \n”?번 써도 이득이래서 구독했어요”",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8045-a5ba-dfacc24cb6c1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80dd-9a14-f66471175a55"
+      },
+      "created_time": "2025-03-08T07:20:00.000Z",
+      "last_edited_time": "2025-03-08T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "   소비자가 ‘구독’하는 이유는 크게 두 가지 입니다. 편의성, 그리고 비용 절감이죠. 예를 들어 세탁 서비스 ‘런드리고’ 구독 서비스의 경우, 빨래를 내놓기만 하면 다음날 세탁된 옷을 문 앞에 배달해주는 편리함을 제공합니다. 쏘카 패스포트, 배민클럽과 같은 구독은 ‘할인권’ 또는 ‘배달비 0원’이라는 혜택을 통해 소비자의 지갑을 지켜주죠.  \n  하지만 동시에 이 혜택이 소비자를 피곤하게 합니다. “얼마나 자주 써야 본전을 뽑지?” “내가 지금 구독한 게 이득은 맞는 건가?” 같은 생각을 한 번 쯤 해보셨을 텐데요, 앞서 말한 잘못된 구독 상품의 적용은 소비자에게 ‘손해’라는 심리적 부담을 더해줄 뿐입니다. 최선의 선택, 최고의 효용 앞에 구독이 주는 ‘건강한 가치’를 고민하게 만들죠. \n\n▼ 🤣 ”구독 때문에 순식간에 알거지가 됐어요” 라는 분들을 위한 준마이님의 아티클입니다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "   소비자가 ‘구독’하는 이유는 크게 두 가지 입니다. 편의성, 그리고 비용 절감이죠. 예를 들어 세탁 서비스 ‘런드리고’ 구독 서비스의 경우, 빨래를 내놓기만 하면 다음날 세탁된 옷을 문 앞에 배달해주는 편리함을 제공합니다. 쏘카 패스포트, 배민클럽과 같은 구독은 ‘할인권’ 또는 ‘배달비 0원’이라는 혜택을 통해 소비자의 지갑을 지켜주죠.  \n  하지만 동시에 이 혜택이 소비자를 피곤하게 합니다. “얼마나 자주 써야 본전을 뽑지?” “내가 지금 구독한 게 이득은 맞는 건가?” 같은 생각을 한 번 쯤 해보셨을 텐데요, 앞서 말한 잘못된 구독 상품의 적용은 소비자에게 ‘손해’라는 심리적 부담을 더해줄 뿐입니다. 최선의 선택, 최고의 효용 앞에 구독이 주는 ‘건강한 가치’를 고민하게 만들죠. \n\n▼ 🤣 ”구독 때문에 순식간에 알거지가 됐어요” 라는 분들을 위한 준마이님의 아티클입니다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8019-86f3-f30a0f7f3461",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80dd-9a14-f66471175a55"
+      },
+      "created_time": "2025-03-08T07:20:00.000Z",
+      "last_edited_time": "2025-03-08T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "link_to_page",
+      "link_to_page": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80b0-85f4-ca93ed34362a"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80f4-b0e4-cc50d90fb3aa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80dd-9a14-f66471175a55"
+      },
+      "created_time": "2025-03-08T07:20:00.000Z",
+      "last_edited_time": "2025-03-08T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\n커머스 업계의 비밀 이유 - 물동량  \n기업 “더 잘해주고 싶어서 그래요” ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\n커머스 업계의 비밀 이유 - 물동량  \n기업 “더 잘해주고 싶어서 그래요” ",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8083-96c4-ef4b18bfda91",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80dd-9a14-f66471175a55"
+      },
+      "created_time": "2025-03-08T07:20:00.000Z",
+      "last_edited_time": "2025-03-08T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " 이런 소비자의 피로도에도 커머스 기업이 ‘구독’을 놓지 못하는 이유가 있습니다. 바로 ‘물동량’이라는 커머스 업계의 특성 때문입니다.  ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 이런 소비자의 피로도에도 커머스 기업이 ‘구독’을 놓지 못하는 이유가 있습니다. 바로 ‘물동량’이라는 커머스 업계의 특성 때문입니다.  ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80e1-a066-fe14d1501647",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80dd-9a14-f66471175a55"
+      },
+      "created_time": "2025-03-08T07:20:00.000Z",
+      "last_edited_time": "2025-03-08T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " 쿠팡, 배민과 같은 유통(동시에 이커머스) 기업 입장에서는 소비자에게 빠른 배달, 배송을 위해 물류센터 자동화, 재고 관리의 효율 극대화가 불가피합니다. 다만 적은 주문량으로는 물류 설비를 대규모로 확장하기 어렵죠. 커머스 기업은 구독 서비스를 이용해, 구매자를 락인(lock-in)하고 재구매를 유도함으로써, 일정 수준의 물동량을 확보해 하는 셈입니다. \n 즉, 커머스 업계에서 ‘구독’은 소비자에게 더 나은 서비스를 제공하기 위해 필요한 ‘물동량’을 마련해주는 장치인 것이죠. \n\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 쿠팡, 배민과 같은 유통(동시에 이커머스) 기업 입장에서는 소비자에게 빠른 배달, 배송을 위해 물류센터 자동화, 재고 관리의 효율 극대화가 불가피합니다. 다만 적은 주문량으로는 물류 설비를 대규모로 확장하기 어렵죠. 커머스 기업은 구독 서비스를 이용해, 구매자를 락인(lock-in)하고 재구매를 유도함으로써, 일정 수준의 물동량을 확보해 하는 셈입니다. \n 즉, 커머스 업계에서 ‘구독’은 소비자에게 더 나은 서비스를 제공하기 위해 필요한 ‘물동량’을 마련해주는 장치인 것이죠. \n\n",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "커머스 기업이 구독 서비스를 강화하는 이유는 단순한 트렌드가 아니라, 안정적인 물동량을 확보해 더욱 경쟁력 있는 서비스를 제공하기 위해서입니다. 결국, 구독은 효율적인 물류 운영을 가능하게 하고, 소비자 경험을 극대화하는 핵심 전략인 셈이죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "커머스 기업이 구독 서비스를 강화하는 이유는 단순한 트렌드가 아니라, 안정적인 물동량을 확보해 더욱 경쟁력 있는 서비스를 제공하기 위해서입니다. 결국, 구독은 효율적인 물류 운영을 가능하게 하고, 소비자 경험을 극대화하는 핵심 전략인 셈이죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80d1-9c04-f055ee2fea06",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80dd-9a14-f66471175a55"
+      },
+      "created_time": "2025-03-08T07:20:00.000Z",
+      "last_edited_time": "2025-03-08T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\n▼ 😯 ”물동량이 왜 거기서 나와..?” 라는 분들을 위한 이우혁님의 아티클입니다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\n▼ 😯 ”물동량이 왜 거기서 나와..?” 라는 분들을 위한 이우혁님의 아티클입니다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8009-b096-d4b8ff2d11ec",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80dd-9a14-f66471175a55"
+      },
+      "created_time": "2025-03-08T07:20:00.000Z",
+      "last_edited_time": "2025-03-08T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "link_to_page",
+      "link_to_page": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8076-b22d-cd216fa20ca7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80dd-9a14-f66471175a55"
+      },
+      "created_time": "2025-03-08T07:20:00.000Z",
+      "last_edited_time": "2025-03-08T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\n시장 “이거 말고 방법 있어?”",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\n시장 “이거 말고 방법 있어?”",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-804b-a11d-c662d4fb5ac4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80dd-9a14-f66471175a55"
+      },
+      "created_time": "2025-03-08T07:20:00.000Z",
+      "last_edited_time": "2025-03-08T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " 앞서 살펴본 것처럼 소비자와 기업은 저마다의 이유로 ‘구독 경제’를 선택하고 있어요. 비단 우리나라만의 이야기일까요? 물론 아닙니다. 사실 우리나라의 시장 흐름과 변화는 다른 나라에서 차용한 집합체라고 보아도 무방한데요, 이런 맥락에서 우리나라에서 ‘구독’이 대세(?) 기업들의 필수템으로 자리잡게 된 이유와 맥락은 지구 반대편에 있는 미국 시장의 흐름을 보면 더 깊이 이해할 수 있어요. \n\n 인종부터 환경, 구매 패턴까지 모두 상이한 미국의 1위 커머스 기업, 아마존은 2005년에 ‘아마존 프라임(Amazon Prime)’을 시작했어요. 처음에는 무료 이틀 배송을 제공하는 멤버십 서비스로, 이후에는 스트리밍 서비스, 전자책까지 점차적으로 영역을 넓혔고  현재는 아마존의 핵심적인 비스니스 모델로 성장했죠.  어디서 본 것과 참 유사하죠?  \n\n  👉🏻 미국의 커머스 1등 ‘",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 앞서 살펴본 것처럼 소비자와 기업은 저마다의 이유로 ‘구독 경제’를 선택하고 있어요. 비단 우리나라만의 이야기일까요? 물론 아닙니다. 사실 우리나라의 시장 흐름과 변화는 다른 나라에서 차용한 집합체라고 보아도 무방한데요, 이런 맥락에서 우리나라에서 ‘구독’이 대세(?) 기업들의 필수템으로 자리잡게 된 이유와 맥락은 지구 반대편에 있는 미국 시장의 흐름을 보면 더 깊이 이해할 수 있어요. \n\n 인종부터 환경, 구매 패턴까지 모두 상이한 미국의 1위 커머스 기업, 아마존은 2005년에 ‘아마존 프라임(Amazon Prime)’을 시작했어요. 처음에는 무료 이틀 배송을 제공하는 멤버십 서비스로, 이후에는 스트리밍 서비스, 전자책까지 점차적으로 영역을 넓혔고  현재는 아마존의 핵심적인 비스니스 모델로 성장했죠.  어디서 본 것과 참 유사하죠?  \n\n  👉🏻 미국의 커머스 1등 ‘",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "아마존’",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "아마존’",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "과 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "과 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 쿠팡",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 쿠팡",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " \n  👉🏻 일본의 종합 IT 기업 ‘",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " \n  👉🏻 일본의 종합 IT 기업 ‘",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "라쿠텐",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "라쿠텐",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "’과 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "’과 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "네이버",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "네이버",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " \n  👉🏻 미국·캐나다의 배달의 민족 ‘",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " \n  👉🏻 미국·캐나다의 배달의 민족 ‘",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "인스타카트",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "인스타카트",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "’ 와 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "’ 와 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "배달의민족 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "배달의민족 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "\n\n▼  어딘가 닮아있는 이들의 내용이 더 궁금하다면? ~~  라는 분들을 위한 00님의 아티클입니다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\n\n▼  어딘가 닮아있는 이들의 내용이 더 궁금하다면? ~~  라는 분들을 위한 00님의 아티클입니다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-80ce-89e5-d482f9ce793c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80dd-9a14-f66471175a55"
+      },
+      "created_time": "2025-03-08T07:20:00.000Z",
+      "last_edited_time": "2025-03-08T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "link_to_page",
+      "link_to_page": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80a0-8797-f3bd6903430e"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8053-bf8e-e263a5a05596",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80dd-9a14-f66471175a55"
+      },
+      "created_time": "2025-03-08T07:20:00.000Z",
+      "last_edited_time": "2025-03-08T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8008-b862-d51fea72927f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80dd-9a14-f66471175a55"
+      },
+      "created_time": "2025-03-08T07:20:00.000Z",
+      "last_edited_time": "2025-03-08T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " 구독의 성공 공식 “고객 집착이 살아남는다” ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 구독의 성공 공식 “고객 집착이 살아남는다” ",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-801b-96d7-e9a06fe79877",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80dd-9a14-f66471175a55"
+      },
+      "created_time": "2025-03-08T07:20:00.000Z",
+      "last_edited_time": "2025-03-08T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " OTT, 모빌리티, 커머스까지. 다양한 분야의 무수한 기업이 ‘구독 서비스’를 내놓고 있습니다. 이들 중 먼 훗날, 아니 하다못해 5년 후 살아남은 곳은 어딜까요? \n\n 돈이 많은 기업? 구독자 수를 많이 보유한 기업? 많은 고민 끝에 “고객 집착(customer obsession)을 끝까지 한 기업이 살아 남는다” 라고 말하고 싶습니다. \n\n  여기서 중요한 지점은 ‘해지율’입니다. 구독 서비스를 시작하는 행위는 실제 결제까지 다소 고민의 시간을 거칩니다. 앞으로 매달 일정 금액 지불해야 한다는 부담감이 생기니까요. 다만, 해지하는 것은 쉽습니다. 번거로울 뿐이죠. 그렇기에 ‘구독’ 서비스가 성공하기 위해서는 많은 구독자를 모으는 것도 중요하지만, 그보다 이전 구독자들을 ‘유지’하는 게 더 중요합니다. 매일 1,000명이 구독한다 하더라도 매일 1,001명이 서비스를 해지하면 말짱 도루묵이죠. \n\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " OTT, 모빌리티, 커머스까지. 다양한 분야의 무수한 기업이 ‘구독 서비스’를 내놓고 있습니다. 이들 중 먼 훗날, 아니 하다못해 5년 후 살아남은 곳은 어딜까요? \n\n 돈이 많은 기업? 구독자 수를 많이 보유한 기업? 많은 고민 끝에 “고객 집착(customer obsession)을 끝까지 한 기업이 살아 남는다” 라고 말하고 싶습니다. \n\n  여기서 중요한 지점은 ‘해지율’입니다. 구독 서비스를 시작하는 행위는 실제 결제까지 다소 고민의 시간을 거칩니다. 앞으로 매달 일정 금액 지불해야 한다는 부담감이 생기니까요. 다만, 해지하는 것은 쉽습니다. 번거로울 뿐이죠. 그렇기에 ‘구독’ 서비스가 성공하기 위해서는 많은 구독자를 모으는 것도 중요하지만, 그보다 이전 구독자들을 ‘유지’하는 게 더 중요합니다. 매일 1,000명이 구독한다 하더라도 매일 1,001명이 서비스를 해지하면 말짱 도루묵이죠. \n\n",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-804d-942f-c547ed55ca2f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80dd-9a14-f66471175a55"
+      },
+      "created_time": "2025-03-08T07:20:00.000Z",
+      "last_edited_time": "2025-03-08T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b04dcb9-65aa-8008-994c-eca032843d0a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b04dcb9-65aa-80dd-9a14-f66471175a55"
+      },
+      "created_time": "2025-03-08T07:20:00.000Z",
+      "last_edited_time": "2025-03-08T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}

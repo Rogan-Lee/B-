@@ -1,22 +1,45 @@
-import post1 from '../notion-data/126ce18c-fd83-8023-9ad1-d0e1809b21c3.json'
-import post2 from '../notion-data/127ce18c-fd83-805c-bebd-d6772e18bf02.json'
+import subscirption_main from '../notion-data/1b04dcb9-65aa-8006-bb12-eafbf72977df.json'
+import subscirption_junmai from '../notion-data/1b04dcb9-65aa-80b0-85f4-ca93ed34362a.json'
+import subscirption_alenYang from '../notion-data/1b04dcb9-65aa-80a0-8797-f3bd6903430e.json'
+import subscirption_uniLee from '../notion-data/1b04dcb9-65aa-80c7-ac51-fdd1e3e4b2ff.json'
+
 
 const posts = [
   {
-    title: "Maximizing the Benefits of BFF Pattern in API Design",
-    slug: "api-design-in-bff",
-    content: post1,
-    date: "2023-10-22",
-    description: "Exploring the shift from domain-centric to data-centric API endpoints after introducing BFF. This article introduces BFF and DDD concepts, then proposes API endpoint design strategies in the context of the BFF pattern.",
-    image: undefined
+    title: "숨참구독-다이브",
+    slug: "subscription-economy-main",
+    content: subscirption_main,
+    date: "2025-03-07",
+    description: "",
+    image: undefined,
+    author: "자양"
   },
   {
-    title: "Naver Search Bar UX: Analysis and Implementation Guide",
-    slug: "naver-search-bar-ux",
-    content: post2,
-    date: "2023-10-23",
-    description: "Explore the UX analysis of Naver's search bar and strategies for replicating its features. The post examines the UX triggers, selection of search results, and the refreshing of result lists. It also compares coding approaches for implementing search bar functionalities, aiming for a concise and effective execution.",
-    image: undefined
+    title: "글로벌 기업에 매달 꼬박꼬박 10만원씩 월세를 냅니다.",
+    slug: "subscription-economy-junmai",
+    content: subscirption_junmai,
+    date: "2025-03-07",
+    description: "",
+    image: undefined,
+    author: "준마이"
+  },
+  {
+    title: "구독 in 글로벌",
+    slug: "subscription-economy-alenYang",
+    content: subscirption_alenYang,
+    date: "2025-03-07",
+    description: "",
+    image: undefined,
+    author: "알랜양"
+  },
+  {
+    title: "물류가 있어야 비즈니스가 굴러간다",
+    slug: "subscription-economy-uniLee",
+    content: subscirption_uniLee,
+    date: "2025-03-07",
+    description: "",
+    image: undefined,
+    author: "우니리"
   }
 ] as Post[];
 
@@ -29,4 +52,5 @@ export type Post = {
   date: string;
   description: string;
   image?: string;
+  author: string;
 };
