@@ -12,7 +12,8 @@ const posts = [
     date: "2025-03-07",
     description: "",
     image: undefined,
-    author: "자양"
+    author: "자양",
+    topic: "숨참구독-다이브"
   },
   {
     title: "글로벌 기업에 매달 꼬박꼬박 10만원씩 월세를 냅니다.",
@@ -21,7 +22,8 @@ const posts = [
     date: "2025-03-07",
     description: "",
     image: undefined,
-    author: "준마이"
+    author: "준마이",
+    topic: "숨참구독-다이브"
   },
   {
     title: "구독 in 글로벌",
@@ -30,7 +32,8 @@ const posts = [
     date: "2025-03-07",
     description: "",
     image: undefined,
-    author: "알랜양"
+    author: "알랜양",
+    topic: "숨참구독-다이브"
   },
   {
     title: "물류가 있어야 비즈니스가 굴러간다",
@@ -39,7 +42,18 @@ const posts = [
     date: "2025-03-07",
     description: "",
     image: undefined,
-    author: "우니리"
+    author: "우니리",
+    topic: "숨참구독-다이브"
+  },
+  {
+    title: "물류가 있어야 비즈니스가 굴러간다",
+    slug: "subscription-economy-uniLee",
+    content: subscirption_uniLee,
+    date: "2025-03-07",
+    description: "",
+    image: undefined,
+    author: "우니리",
+    topic: "Ux/Ui는 비즈니스에 도움이 되는가?"
   }
 ] as Post[];
 
@@ -53,4 +67,5 @@ export type Post = {
   description: string;
   image?: string;
   author: string;
+  topic: string;
 };
