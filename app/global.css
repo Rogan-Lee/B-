@@ -34,12 +34,12 @@ html {
 
 .prose .anchor {
 
-  margin-left: -1em;,
-  padding-right: 0.5em;,
-  width: 90%;,
-  max-width: 90%;,
-  margin: 0 auto;,
-  cursor: pointer;,
+  margin-left: -1em;
+  padding-right: 0.5em;
+  width: 90%;
+  max-width: 90%;
+  margin: 0 auto;
+  cursor: pointer;
 }
 
 .anchor:hover {
@@ -148,34 +148,4 @@ table {
 
 .title {
   text-wrap: balance;
-}
-
-@media (max-width: 768px) {
-  body {
-    font-size: 0.9rem;
-  }
-
-  h1 {
-    font-size: 1.6rem;
-  }
-
-  h2 {
-    font-size: 1.2rem;
-  }
-}
-
-.nav-links {
-  font-size: 1rem; /* 기본 크기 */
-}
-
-@media (max-width: 768px) {
-  .nav-links {
-    font-size: 0.9rem; /* 태블릿에서 크기 감소 */
-  }
-}
-
-@media (max-width: 480px) {
-  .nav-links {
-    font-size: 0.8rem; /* 모바일에서 더 작은 크기 */
-  }
 }

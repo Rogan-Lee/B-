@@ -3,8 +3,8 @@ import HeroSection from "components/HeroSection"
 export default function Page() {
   return (
     <section className="flex justify-center">
-      <div className="w-full max-w-screen-lg px-8 lg:px-16 min-h-screen">
-        <section className="w-full ">
+      <div className="w-full max-w-screen-lg min-h-screen">
+        <section>
           <HeroSection />
           <section className='w-full my-12'>
 
