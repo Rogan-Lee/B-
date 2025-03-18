@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import posts from '../content/posts'
 import { Post } from '../content/posts'
-
+import { Analytics } from '@vercel/analytics/next'
 
 export function BlogPosts() {
   const postsByTopic = posts.reduce((acc, post) => {
@@ -46,6 +46,7 @@ export function BlogPosts() {
               >
                 ▼
               </span>
+              <Analytics />
             </button>
 
             {/* 주제별 글 목록 */}
@@ -68,6 +69,7 @@ export function BlogPosts() {
                   <p className="text-gray-600 dark:text-gray-400 text-sm">
                     {post.date} · {post.author}
                   </p>
+                  <Analytics />
                 </Link>
               ))}
             </div>
@@ -84,6 +86,7 @@ export function BlogPosts() {
                 >
                   오프닝 아티클 읽어보기
                 </Link>
+                <Analytics />
               </div>
             )}
           </div>

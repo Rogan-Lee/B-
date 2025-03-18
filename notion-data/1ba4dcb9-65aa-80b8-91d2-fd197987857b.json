@@ -1,0 +1,2443 @@
+{
+  "object": "page",
+  "id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b",
+  "created_time": "2025-03-18T02:06:00.000Z",
+  "last_edited_time": "2025-03-18T02:45:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "19d4dcb9-65aa-8001-a3bc-f5395e0813dc"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "연애 편지를 쓸 때, 예쁜 편지지가 먼저냐 좋은 문장이 먼저냐 그것이 문제로다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "연애 편지를 쓸 때, 예쁜 편지지가 먼저냐 좋은 문장이 먼저냐 그것이 문제로다.",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/1ba4dcb965aa80b891d2fd197987857b",
+  "public_url": null,
+  "request_id": "9ac20e54-ccfb-4441-a733-497f87d262eb",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80b7-ba93-feece83d8f7a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "비즈니스에서 UX/UI의 가치",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "비즈니스에서 UX/UI의 가치",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80d0-8af8-daa96c0410e5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:11:00.000Z",
+      "last_edited_time": "2025-03-18T02:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {},
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1ba4dcb9-65aa-80a7-81aa-fdb3c1f7de6b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1ba4dcb9-65aa-80d0-8af8-daa96c0410e5"
+          },
+          "created_time": "2025-03-18T02:11:00.000Z",
+          "last_edited_time": "2025-03-18T02:11:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {},
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1ba4dcb9-65aa-8039-be88-ea13d7e714b5",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1ba4dcb9-65aa-80a7-81aa-fdb3c1f7de6b"
+              },
+              "created_time": "2025-03-18T02:11:00.000Z",
+              "last_edited_time": "2025-03-18T02:11:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "heading_3",
+              "heading_3": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "준마이\n@JUNMAI",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "준마이\n@JUNMAI",
+                    "href": null
+                  }
+                ],
+                "is_toggleable": false,
+                "color": "default"
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "1ba4dcb9-65aa-803e-903b-f5daea6ce9e4",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1ba4dcb9-65aa-80a7-81aa-fdb3c1f7de6b"
+              },
+              "created_time": "2025-03-18T02:11:00.000Z",
+              "last_edited_time": "2025-03-18T02:11:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1ba4dcb9-65aa-80ba-824e-c745ed7d1c8c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1ba4dcb9-65aa-80d0-8af8-daa96c0410e5"
+          },
+          "created_time": "2025-03-18T02:11:00.000Z",
+          "last_edited_time": "2025-03-18T02:11:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {},
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1ba4dcb9-65aa-8046-a07b-ead852bffbd7",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1ba4dcb9-65aa-80ba-824e-c745ed7d1c8c"
+              },
+              "created_time": "2025-03-18T02:11:00.000Z",
+              "last_edited_time": "2025-03-18T02:11:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "linkedin\n",
+                      "link": {
+                        "url": "https://www.linkedin.com/in/joonjoonman/"
+                      }
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "linkedin\n",
+                    "href": "https://www.linkedin.com/in/joonjoonman/"
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "brunch",
+                      "link": {
+                        "url": "https://brunch.co.kr/@joonmai"
+                      }
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "brunch",
+                    "href": "https://brunch.co.kr/@joonmai"
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-8037-9565-dded03ff88b1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:11:00.000Z",
+      "last_edited_time": "2025-03-18T02:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80c6-8055-d9bfe9ae35bc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80bb-8df5-e4f2e3b0f9f7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80c2-9453-d859d0ace53b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "UX/UI 디자인은 사용자에게 사랑받기 위해 태어난 필수적인 요소처럼 보일 때도 있지만, 실제 비즈니스 현장에서는 “그게 꼭 최우선이어야 하나요?”라는 의문이 떠오르곤 해요. 이를테면, 누군가는 “에이, 요즘 시대에 예쁘고 세련된 UI가 최고죠”라고 주장하고, 또 다른 사람은 “아무리 예뻐도 우리 서비스 본질은 수익성입니다”라며 투덜대죠. 이런 상반된 시각이 공존하는 이유가 뭘까요?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "UX/UI 디자인은 사용자에게 사랑받기 위해 태어난 필수적인 요소처럼 보일 때도 있지만, 실제 비즈니스 현장에서는 “그게 꼭 최우선이어야 하나요?”라는 의문이 떠오르곤 해요. 이를테면, 누군가는 “에이, 요즘 시대에 예쁘고 세련된 UI가 최고죠”라고 주장하고, 또 다른 사람은 “아무리 예뻐도 우리 서비스 본질은 수익성입니다”라며 투덜대죠. 이런 상반된 시각이 공존하는 이유가 뭘까요?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-802f-82c2-f16d5716ffb4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "매력적인 화면은 분명 사용자의 시선을 사로잡는 데 유리하고, 디자이너의 장인정신이 녹아든 그래픽 요소는 브랜드 이미지를 고급스럽게 만들 수 있어요. 하지만 그 반대편에선 “진짜 중요한 건 합리적인 가격, 빠른 속도, 편리한 기능 아닌가?”라는 현실적 목소리가 나오기도 하죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "매력적인 화면은 분명 사용자의 시선을 사로잡는 데 유리하고, 디자이너의 장인정신이 녹아든 그래픽 요소는 브랜드 이미지를 고급스럽게 만들 수 있어요. 하지만 그 반대편에선 “진짜 중요한 건 합리적인 가격, 빠른 속도, 편리한 기능 아닌가?”라는 현실적 목소리가 나오기도 하죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-8010-aab6-d184251a5d84",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이번 글에서는 “UX/UI는 비즈니스에 정말 필수적인 걸까, 아니면 장식적 요소일 뿐인가?”라는 해묵은 고민을 풀어보려 해요. 그 과정에서 연애 편지, 쿠팡, 그리고 어느 교수님의 ‘디자인만 보고 판단하지 말라’는 일침 사례를 함께 살펴보겠습니다. 분량이 넉넉한 만큼, 최대한 쉽게 와닿을 수 있는 비유와 예시를 통해 이야기를 풀어갈 테니, 중간 중간 편하게 읽으며 따라와 주시길 바랄게요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이번 글에서는 “UX/UI는 비즈니스에 정말 필수적인 걸까, 아니면 장식적 요소일 뿐인가?”라는 해묵은 고민을 풀어보려 해요. 그 과정에서 연애 편지, 쿠팡, 그리고 어느 교수님의 ‘디자인만 보고 판단하지 말라’는 일침 사례를 함께 살펴보겠습니다. 분량이 넉넉한 만큼, 최대한 쉽게 와닿을 수 있는 비유와 예시를 통해 이야기를 풀어갈 테니, 중간 중간 편하게 읽으며 따라와 주시길 바랄게요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80a8-a4a7-e56dd16060ec",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-808c-84c2-f85962b50a3e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-8005-8bbb-c188ab0a19d0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80b8-a302-cb5586291bfe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "1. “연애 편지”로 바라본 UX/UI의 본질",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1. “연애 편지”로 바라본 UX/UI의 본질",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80b2-8d94-cb27f1ea210e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "연애 편지를 쓴다고 가정해봅시다. 손글씨로 마음을 전할 때 우리가 첫 번째로 고민하는 건 ‘예쁜 편지지’죠. 꽃무늬든, 하트무늬든, 혹은 세련된 디자인이든 간에, 그 편지지 자체가 주는 감성은 확실히 문구류 매장에서 잘 뽑아낸 예술 작품 같기도 해요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "연애 편지를 쓴다고 가정해봅시다. 손글씨로 마음을 전할 때 우리가 첫 번째로 고민하는 건 ‘예쁜 편지지’죠. 꽃무늬든, 하트무늬든, 혹은 세련된 디자인이든 간에, 그 편지지 자체가 주는 감성은 확실히 문구류 매장에서 잘 뽑아낸 예술 작품 같기도 해요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80da-a0b4-f94bfef16ef7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그런데, 정작 사랑을 고백하는 사람의 마음이 엉뚱한 데 가 있거나, 편지 내용을 아무렇게나 썼다면 어떨까요? 상대방은 “분명 편지지는 예쁜데, 무슨 말을 하고 싶은 건지 잘 모르겠네?”라는 생각을 하게 될지 몰라요. 예를 들어, 편지지 구석에 “P.S. 사실 너보다 더 좋아하는 사람이 있어”라는 말이 적혀있다면, 그 예쁜 편지지가 무슨 소용일까요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그런데, 정작 사랑을 고백하는 사람의 마음이 엉뚱한 데 가 있거나, 편지 내용을 아무렇게나 썼다면 어떨까요? 상대방은 “분명 편지지는 예쁜데, 무슨 말을 하고 싶은 건지 잘 모르겠네?”라는 생각을 하게 될지 몰라요. 예를 들어, 편지지 구석에 “P.S. 사실 너보다 더 좋아하는 사람이 있어”라는 말이 적혀있다면, 그 예쁜 편지지가 무슨 소용일까요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-8086-88a7-c3c452cb06c6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "연애 편지의 사례가 UX/UI와 닮아 있는 이유는, 디자인(예쁜 편지지)과 서비스(전하고자 하는 가치)가 얼마나 조화를 이루느냐에 따라 사용자 경험이 크게 달라진다는 점에 있어요. 어느 한쪽만 치우쳐도 애매해져요. 오직 편지지(디자인)만 화려하고 정작 내용(서비스의 가치)이 부실하면 “겉만 번지르르하다”는 비난을 피하기 어렵고, 콘텐츠가 아무리 좋아도 디자인이 불편하면 사용자들이 그 내용을 발견하기도 전에 떠나버릴 수 있어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "연애 편지의 사례가 UX/UI와 닮아 있는 이유는, 디자인(예쁜 편지지)과 서비스(전하고자 하는 가치)가 얼마나 조화를 이루느냐에 따라 사용자 경험이 크게 달라진다는 점에 있어요. 어느 한쪽만 치우쳐도 애매해져요. 오직 편지지(디자인)만 화려하고 정작 내용(서비스의 가치)이 부실하면 “겉만 번지르르하다”는 비난을 피하기 어렵고, 콘텐츠가 아무리 좋아도 디자인이 불편하면 사용자들이 그 내용을 발견하기도 전에 떠나버릴 수 있어요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-8096-a14e-fe99e8836701",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "여기서 깨닫게 되는 건, “UX/UI는 메시지를 돋보이게 해주는 ‘그릇’이면서도, 너무 과하면 메시지를 가릴 수도 있는 양날의 검이다”라는 사실이에요. 마치 예쁜 포장지 속에 흐릿한 글씨로 써놓은 편지를 건네받은 상대방이 “아, 종이는 예쁜데 뭐라고 쓰여 있는 거야?” 하고 의아해하는 상황과 비슷하죠. 결국 UX/UI란, 사용자가 무엇을 원하고, 서비스가 어떤 내용을 전하려 하는지에 따라 ‘정도’를 잘 맞춰야 하는 영역이랍니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "여기서 깨닫게 되는 건, “UX/UI는 메시지를 돋보이게 해주는 ‘그릇’이면서도, 너무 과하면 메시지를 가릴 수도 있는 양날의 검이다”라는 사실이에요. 마치 예쁜 포장지 속에 흐릿한 글씨로 써놓은 편지를 건네받은 상대방이 “아, 종이는 예쁜데 뭐라고 쓰여 있는 거야?” 하고 의아해하는 상황과 비슷하죠. 결국 UX/UI란, 사용자가 무엇을 원하고, 서비스가 어떤 내용을 전하려 하는지에 따라 ‘정도’를 잘 맞춰야 하는 영역이랍니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80b6-9cbb-e10a89b947db",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80cd-a90c-f94a80ded6d5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-8007-831c-e2dacf7e5c45",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2. 쿠팡이 안 예쁜 이유, 혹은 예쁘지 않아도 괜찮은 이유",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2. 쿠팡이 안 예쁜 이유, 혹은 예쁘지 않아도 괜찮은 이유",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80ea-a1dc-ef6d15593947",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“쿠팡은 왜 이렇게 투박하게 보이지?”라는 궁금해 해본 적이 있으신가요? 보통 대형 플랫폼 기업이라면, 디자인 팀도 갖춰져 있을 거고, ‘예쁜 UI’를 뚝딱 만들어낼 능력이 충분할 것 같은데, 실제 쿠팡 웹사이트나 앱을 보면 다소 촌스럽거나 복잡해 보이는 느낌이 들기도 해요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“쿠팡은 왜 이렇게 투박하게 보이지?”라는 궁금해 해본 적이 있으신가요? 보통 대형 플랫폼 기업이라면, 디자인 팀도 갖춰져 있을 거고, ‘예쁜 UI’를 뚝딱 만들어낼 능력이 충분할 것 같은데, 실제 쿠팡 웹사이트나 앱을 보면 다소 촌스럽거나 복잡해 보이는 느낌이 들기도 해요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-8039-86a5-d327509a89ab",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이런 의문에 대해, 실제 쿠팡에서 일하시는 A님의 이야기를 통해 이에 대한 간단한 해답을 얻은 적이 있었어요. “쿠팡은 ‘싸고 빠른 배송’을 핵심 가치로 삼기 때문에, 화려한 디자인보다는 기능 구현과 물류 시스템에 더 많은 투자를 하는 것 같다”라고 말해요. 쉽게 말해, 매분 매초 이뤄지는 테스트와 A/B 테스트를 통해 ‘어떤 배너가 클릭을 더 많이 유도하는지, 몇 번의 탭으로 상품을 장바구니에 넣을 수 있는지’를 끊임없이 확인하다보니, 실제 디자인을 가꾸는 데에 많은 인풋을 들이지 않게 된 것이죠. 오늘 바꾼 화면이 내일 바뀔 수도 있으니, 정교하고 아름다운 그래픽을 세세히 다듬는 대신, 데이터를 기반으로 한 빠른 변경에 집중하는 형태가 된다는 거예요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이런 의문에 대해, 실제 쿠팡에서 일하시는 A님의 이야기를 통해 이에 대한 간단한 해답을 얻은 적이 있었어요. “쿠팡은 ‘싸고 빠른 배송’을 핵심 가치로 삼기 때문에, 화려한 디자인보다는 기능 구현과 물류 시스템에 더 많은 투자를 하는 것 같다”라고 말해요. 쉽게 말해, 매분 매초 이뤄지는 테스트와 A/B 테스트를 통해 ‘어떤 배너가 클릭을 더 많이 유도하는지, 몇 번의 탭으로 상품을 장바구니에 넣을 수 있는지’를 끊임없이 확인하다보니, 실제 디자인을 가꾸는 데에 많은 인풋을 들이지 않게 된 것이죠. 오늘 바꾼 화면이 내일 바뀔 수도 있으니, 정교하고 아름다운 그래픽을 세세히 다듬는 대신, 데이터를 기반으로 한 빠른 변경에 집중하는 형태가 된다는 거예요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80fe-804e-f8d0ca025b73",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "또 다른 이유로는, 쿠팡이 의도적으로 “‘싸고 빠르다’는 이미지를 극대화하기 위해 세련미를 약간 포기했다”는 시각도 있어요. 실제로 사람들이 ‘저렴하고 재빠른 서비스’라고 생각할 때, 오히려 투박한 화면이 그 이미지를 보조해줄 수 있다는 거죠. 마치 할머니들이 운영하는 동네 반찬 가게가 지나치게 고급 인테리어를 갖추면 “여기 비쌀 것 같아서 부담스럽다”라고 느낄 수 있는 심리와 비슷해요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "또 다른 이유로는, 쿠팡이 의도적으로 “‘싸고 빠르다’는 이미지를 극대화하기 위해 세련미를 약간 포기했다”는 시각도 있어요. 실제로 사람들이 ‘저렴하고 재빠른 서비스’라고 생각할 때, 오히려 투박한 화면이 그 이미지를 보조해줄 수 있다는 거죠. 마치 할머니들이 운영하는 동네 반찬 가게가 지나치게 고급 인테리어를 갖추면 “여기 비쌀 것 같아서 부담스럽다”라고 느낄 수 있는 심리와 비슷해요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-804e-b76b-c8f92437ac26",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "아울러, 쿠팡은 매주 수십, 수백 건의 A/B 테스트를 돌린다는 말이 있어요. 그 정도로 ‘실험’에 몰두한다면, 결과적으로 예쁜 화면을 유지하는 게 무리일 수도 있어요. 실험 하나가 끝나면, 또 다른 레이아웃이나 디자인 요소로 바꿔서 시험해 봐야 하니까요. 그래서 쿠팡을 “약간 구린 화면일지 몰라도, 그만큼 빠르게 진화하고 있는 서비스”라고 보는 시각이 성립하죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "아울러, 쿠팡은 매주 수십, 수백 건의 A/B 테스트를 돌린다는 말이 있어요. 그 정도로 ‘실험’에 몰두한다면, 결과적으로 예쁜 화면을 유지하는 게 무리일 수도 있어요. 실험 하나가 끝나면, 또 다른 레이아웃이나 디자인 요소로 바꿔서 시험해 봐야 하니까요. 그래서 쿠팡을 “약간 구린 화면일지 몰라도, 그만큼 빠르게 진화하고 있는 서비스”라고 보는 시각이 성립하죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-802b-a975-e01fbdd6006f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "정리하자면, 쿠팡은 ‘예쁘지 않음’이 곧 단점이 아니라, 그들이 전달하려는 메시지(“싸고 빠르다”)와 전략(“빠른 실험을 통한 효율 극대화”)에 부합하는 선택일 수 있다는 겁니다. 예쁜 편지지로 곱게 포장하기보다, 가성비 있는 매장 분위기를 풍겨서 부담 없이 들르게 만드는 ‘동네 마트’ 느낌을 주는 거죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "정리하자면, 쿠팡은 ‘예쁘지 않음’이 곧 단점이 아니라, 그들이 전달하려는 메시지(“싸고 빠르다”)와 전략(“빠른 실험을 통한 효율 극대화”)에 부합하는 선택일 수 있다는 겁니다. 예쁜 편지지로 곱게 포장하기보다, 가성비 있는 매장 분위기를 풍겨서 부담 없이 들르게 만드는 ‘동네 마트’ 느낌을 주는 거죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-8017-820a-ecee367a3440",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80de-9ca7-d4f342a5ec7d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "3. “이 학원, 디자인 예쁘다고 꼭 좋을까요?” – 교수님의 일침",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "3. “이 학원, 디자인 예쁘다고 꼭 좋을까요?” – 교수님의 일침",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-8093-923b-cd7c44731f85",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "글쓴이가 대학을 다닐 시절의 디자인 수업에서, 교수님이 각기 다른 학원 웹사이트 3개를 보여주며 “어디 학원이 제일 좋아 보이느냐?”라고 물어본 적이 있어요. 학생들은 대개 “디자인이 깔끔하고 잘 정돈된 곳이 좋아 보인다”라고 답했어요. 하지만 교수님은 수 많은 학생들의 이야기를 듣고선 이렇게 말했어요. “디자인만 보고 학원 질을 판단하다니, 그건 너무 오만하네요. 진짜 좋은 학원인지는 직접 상담을 받아봐야 알죠.”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "글쓴이가 대학을 다닐 시절의 디자인 수업에서, 교수님이 각기 다른 학원 웹사이트 3개를 보여주며 “어디 학원이 제일 좋아 보이느냐?”라고 물어본 적이 있어요. 학생들은 대개 “디자인이 깔끔하고 잘 정돈된 곳이 좋아 보인다”라고 답했어요. 하지만 교수님은 수 많은 학생들의 이야기를 듣고선 이렇게 말했어요. “디자인만 보고 학원 질을 판단하다니, 그건 너무 오만하네요. 진짜 좋은 학원인지는 직접 상담을 받아봐야 알죠.”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-804b-a88b-f0e1cb3e26e5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "듣고 나면 어찌 보면 당연한 말인데, 또 한편으로는 ‘아, 그럴 수도 있겠구나’ 싶어 고개가 끄덕여지기도 해요. 인간은 시각적 정보를 통해 빠르게 첫인상을 형성하고, 마음속에서 ‘예쁜 것이 좋은 것이다’라는 편향을 쉽게 갖게 되거든요. 그래서 깔끔하게 정리된 홈페이지를 보면 ‘좋은 학원일 것’이라는 막연한 믿음을 갖게 될 수도 있죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "듣고 나면 어찌 보면 당연한 말인데, 또 한편으로는 ‘아, 그럴 수도 있겠구나’ 싶어 고개가 끄덕여지기도 해요. 인간은 시각적 정보를 통해 빠르게 첫인상을 형성하고, 마음속에서 ‘예쁜 것이 좋은 것이다’라는 편향을 쉽게 갖게 되거든요. 그래서 깔끔하게 정리된 홈페이지를 보면 ‘좋은 학원일 것’이라는 막연한 믿음을 갖게 될 수도 있죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80b5-8dc8-c4fcf7f8b365",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이 상황을 UX/UI에 대입하면 “UI가 예쁘고 깔끔하면, 사용자에게 좋은 서비스로 보일까?”라는 질문을 떠올리게 돼요. 물론, 첫인상은 중요해요. 반짝이는 그래픽과 심플한 인터페이스는 ‘우와, 편해 보인다’는 느낌을 주니까요. 하지만 정작 사용자가 원하는 기능을 찾는 데 어려움을 겪는다면, 예쁨은 그야말로 장식품에 지나지 않을 수 있어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이 상황을 UX/UI에 대입하면 “UI가 예쁘고 깔끔하면, 사용자에게 좋은 서비스로 보일까?”라는 질문을 떠올리게 돼요. 물론, 첫인상은 중요해요. 반짝이는 그래픽과 심플한 인터페이스는 ‘우와, 편해 보인다’는 느낌을 주니까요. 하지만 정작 사용자가 원하는 기능을 찾는 데 어려움을 겪는다면, 예쁨은 그야말로 장식품에 지나지 않을 수 있어요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-8000-a281-ebbe09a81370",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "예를 들어, 한 식당이 인테리어를 럭셔리하게 꾸며놓았는데, 막상 맛이 별로이거나, 메뉴판이 복잡해서 무엇을 주문해야 할지 모르겠다면 어떨까요? 그 순간부터 “와, 인테리어는 꽤 훌륭한데…”라고 생각하면서도 “다신 안 오고 싶다”는 결론을 내리게 될 거예요. 고급스러운 인테리어가 오히려 ‘왜 음식 맛은 이 모양이지?’라는 반감을 키울 수도 있죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "예를 들어, 한 식당이 인테리어를 럭셔리하게 꾸며놓았는데, 막상 맛이 별로이거나, 메뉴판이 복잡해서 무엇을 주문해야 할지 모르겠다면 어떨까요? 그 순간부터 “와, 인테리어는 꽤 훌륭한데…”라고 생각하면서도 “다신 안 오고 싶다”는 결론을 내리게 될 거예요. 고급스러운 인테리어가 오히려 ‘왜 음식 맛은 이 모양이지?’라는 반감을 키울 수도 있죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80e7-a8c8-c222b5da1e1c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이처럼, 디자인이 예쁘다는 것은 이목을 끄는 데 긍정적인 역할을 하되, 그것만으로 서비스의 가치를 판단할 수 없다는 메시지를 교수님의 일침에서 배울 수 있어요. 다만, 우리는 이 교훈을 통해 ‘사용자의 니즈와 디자인이 함께 가야 한다’는 걸 다시금 깨닫게 된답니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이처럼, 디자인이 예쁘다는 것은 이목을 끄는 데 긍정적인 역할을 하되, 그것만으로 서비스의 가치를 판단할 수 없다는 메시지를 교수님의 일침에서 배울 수 있어요. 다만, 우리는 이 교훈을 통해 ‘사용자의 니즈와 디자인이 함께 가야 한다’는 걸 다시금 깨닫게 된답니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80c8-a442-d6616cd01bb9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80b6-92e9-f36bde76826f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "4. 비즈니스 목표와 UX/UI가 손을 맞잡으려면",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "4. 비즈니스 목표와 UX/UI가 손을 맞잡으려면",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-803e-a8c5-fe05376a544b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "UX/UI 디자인이 빛을 발하려면, 결국 비즈니스 목표와 손을 맞잡아야 한다고들 말해요. 예컨대 배달의 민족이라는 회사가 “올해 최대 과제는 배달 시간을 단축하고, 이를 제대로 보여주는 것이다”라는 목표를 세웠다면, UX/UI 팀은 사용자가 배송 과정을 한눈에 확인할 수 있도록 인터페이스를 단순화하거나, 배송 완료 예상 시간을 직관적으로 볼 수 있게 만들어야 해요. 그래야 사용자들이 “이 앱, 배달 상태 확인하기 정말 쉽다”라고 느끼게 되죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "UX/UI 디자인이 빛을 발하려면, 결국 비즈니스 목표와 손을 맞잡아야 한다고들 말해요. 예컨대 배달의 민족이라는 회사가 “올해 최대 과제는 배달 시간을 단축하고, 이를 제대로 보여주는 것이다”라는 목표를 세웠다면, UX/UI 팀은 사용자가 배송 과정을 한눈에 확인할 수 있도록 인터페이스를 단순화하거나, 배송 완료 예상 시간을 직관적으로 볼 수 있게 만들어야 해요. 그래야 사용자들이 “이 앱, 배달 상태 확인하기 정말 쉽다”라고 느끼게 되죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80a9-9840-eafee12b27aa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "만약 비즈니스 측에서 “우리는 올해 가입자를 두 배로 늘리고 싶어요!”라고 외치고 있는데, UX/UI 쪽에서 “버튼 색을 좀 더 세련된 핑크로 바꿔보면 어떨까요?”라는 논의만 하고 있다면 어떨까요? 물론 색상이 사용자 경험에 영향을 줄 수 있어요. 하지만 ‘가입자를 획기적으로 늘리는’ 목표와 그 제안이 직접적으로 연결되지 않는다면, 전략적으로 고민이 부족하다는 인상을 주기 쉬워요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "만약 비즈니스 측에서 “우리는 올해 가입자를 두 배로 늘리고 싶어요!”라고 외치고 있는데, UX/UI 쪽에서 “버튼 색을 좀 더 세련된 핑크로 바꿔보면 어떨까요?”라는 논의만 하고 있다면 어떨까요? 물론 색상이 사용자 경험에 영향을 줄 수 있어요. 하지만 ‘가입자를 획기적으로 늘리는’ 목표와 그 제안이 직접적으로 연결되지 않는다면, 전략적으로 고민이 부족하다는 인상을 주기 쉬워요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-800e-8972-dfa70ba290f0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "가령 동네에서 분식집을 운영한다면, “이번 달은 ‘라면 매출’을 올리는 게 최우선 과제야!”라고 결정을 내려놓고, 가게 내부 배치를 어떻게 하면 라면을 더 잘 드러낼 수 있을지 고민하는 거예요. 가게 문을 열면 라면 메뉴판이 바로 눈에 띄도록 설치한다든지, 홍보 포스터에서 라면이 가장 먼저 보이게 한다든지 하는 식으로 말이죠. UX/UI도 마찬가지로, “목표가 뭔데? 그럼 화면 구성과 사용자 흐름을 어떻게 바꿀까?”라는 접근을 하면, 자연스럽게 얼라인이 이뤄져요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "가령 동네에서 분식집을 운영한다면, “이번 달은 ‘라면 매출’을 올리는 게 최우선 과제야!”라고 결정을 내려놓고, 가게 내부 배치를 어떻게 하면 라면을 더 잘 드러낼 수 있을지 고민하는 거예요. 가게 문을 열면 라면 메뉴판이 바로 눈에 띄도록 설치한다든지, 홍보 포스터에서 라면이 가장 먼저 보이게 한다든지 하는 식으로 말이죠. UX/UI도 마찬가지로, “목표가 뭔데? 그럼 화면 구성과 사용자 흐름을 어떻게 바꿀까?”라는 접근을 하면, 자연스럽게 얼라인이 이뤄져요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-8000-ba66-fcdbe8a2851c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "실제로 많은 스타트업과 IT 기업들이 “우리 KPI(핵심 성과 지표)는 뭘로 잡을까?”라는 질문부터 시작해서, 디자인·개발·마케팅이 ‘합의된 목표’ 아래 움직이는 시스템을 도입하려고 애쓴다고 해요. 디자인 팀도 그 목표를 알고 있어야 “어떤 UI를 만들어야 우리 목표가 달성될까?”라는 방향성을 잡을 수 있으니까요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "실제로 많은 스타트업과 IT 기업들이 “우리 KPI(핵심 성과 지표)는 뭘로 잡을까?”라는 질문부터 시작해서, 디자인·개발·마케팅이 ‘합의된 목표’ 아래 움직이는 시스템을 도입하려고 애쓴다고 해요. 디자인 팀도 그 목표를 알고 있어야 “어떤 UI를 만들어야 우리 목표가 달성될까?”라는 방향성을 잡을 수 있으니까요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-8027-9e74-fdf03c0c5031",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "UX/UI가 쓰이는 맥락이나 상황이 비즈니스 목표와 반드시 일치해야만 하는 이유는, 그래야 그 디자인이 단순한 장식이 아니라 ‘성과에 기여하는 자산’이 되기 때문이에요. 우리는 아까 연애 편지 이야기를 했듯이, 예쁜 편지지를 쓰는 이유가 사랑의 마음을 더 제대로 전달하기 위해서임을 잊으면 안 돼요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "UX/UI가 쓰이는 맥락이나 상황이 비즈니스 목표와 반드시 일치해야만 하는 이유는, 그래야 그 디자인이 단순한 장식이 아니라 ‘성과에 기여하는 자산’이 되기 때문이에요. 우리는 아까 연애 편지 이야기를 했듯이, 예쁜 편지지를 쓰는 이유가 사랑의 마음을 더 제대로 전달하기 위해서임을 잊으면 안 돼요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80c2-8cca-e2f8a1c56ab5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-806f-bd4a-fa440ded566d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "5. “UX/UI는 죄가 없다”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "5. “UX/UI는 죄가 없다”",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80f5-bb2f-ea23e8c44d79",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " “UX/UI는 죄가 없다. 죄가 있다면, 비즈니스 전략과 얼라인되지 않은 UX/UI다”라는 뉘앙스의 말을 나눈 적이 있어요. 사람들이 UI를 탓하거나 UX를 탓할 때, 사실 그게 문제인 게 아니라 “우리 회사가 원하는 목표는 따로 있는데, 기능 조직에선 딴소리만 하고 있네?” 혹은 “사용자들이 원하는 기능은 이것인데, 개발이나 디자인 이슈에 묶여서 구현을 못했네?” 같은 맥락이 숨어 있다는 거죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " “UX/UI는 죄가 없다. 죄가 있다면, 비즈니스 전략과 얼라인되지 않은 UX/UI다”라는 뉘앙스의 말을 나눈 적이 있어요. 사람들이 UI를 탓하거나 UX를 탓할 때, 사실 그게 문제인 게 아니라 “우리 회사가 원하는 목표는 따로 있는데, 기능 조직에선 딴소리만 하고 있네?” 혹은 “사용자들이 원하는 기능은 이것인데, 개발이나 디자인 이슈에 묶여서 구현을 못했네?” 같은 맥락이 숨어 있다는 거죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-806f-9da0-dca2ec882d6e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "간단한 예시로, 온라인 서점이 있다고 해볼게요. 요즘 트렌드에 맞춰서 ‘와, 완전 힙한 디자인으로 서점 메인 화면을 리뉴얼했어!’라고 하면 어떨까요? 첫눈에 봐도 예쁘고, SNS에 캡처해서 자랑하고 싶을 정도로 멋지게 만들 수도 있겠죠. 그런데 문제는, 정작 독자들이 가장 필요로 하는 “책 검색 기능”이 더 복잡해졌을 때 생겨요. 책 제목을 검색해도 결과가 늦게 나오거나, 사용자 맞춤 추천 도서 리스트가 실종되어 버린다면, 화려한 디자인은 무용지물이 되기 쉽죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "간단한 예시로, 온라인 서점이 있다고 해볼게요. 요즘 트렌드에 맞춰서 ‘와, 완전 힙한 디자인으로 서점 메인 화면을 리뉴얼했어!’라고 하면 어떨까요? 첫눈에 봐도 예쁘고, SNS에 캡처해서 자랑하고 싶을 정도로 멋지게 만들 수도 있겠죠. 그런데 문제는, 정작 독자들이 가장 필요로 하는 “책 검색 기능”이 더 복잡해졌을 때 생겨요. 책 제목을 검색해도 결과가 늦게 나오거나, 사용자 맞춤 추천 도서 리스트가 실종되어 버린다면, 화려한 디자인은 무용지물이 되기 쉽죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-8030-8ba9-d069fa568a5e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이럴 때 우리가 “아, 예쁜 건 좋았지만, 이게 정말 우리 목표(더 많이 팔고, 더 쉽게 검색하게 하는 것)와 맞물려 있었나?”라는 고민을 하게 돼요. 그 고민을 제대로 해보면, UX/UI 자체는 죄가 없어요. 문제는 “우리 목표는 더 많은 도서를 빠르게 찾아 사도록 하는 건데, 디자인만 엄청나게 신경 썼다”라는 불일치에서 비롯된 거예요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이럴 때 우리가 “아, 예쁜 건 좋았지만, 이게 정말 우리 목표(더 많이 팔고, 더 쉽게 검색하게 하는 것)와 맞물려 있었나?”라는 고민을 하게 돼요. 그 고민을 제대로 해보면, UX/UI 자체는 죄가 없어요. 문제는 “우리 목표는 더 많은 도서를 빠르게 찾아 사도록 하는 건데, 디자인만 엄청나게 신경 썼다”라는 불일치에서 비롯된 거예요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80e3-863b-d87c526ffc3f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "즉, UX/UI는 사업을 돕기 위해 존재하는 도구이자, 사용자들에게 편리함과 즐거움을 주기 위한 수단인데, 그 초점을 잃어버리면 공허해진다는 뜻이에요. 그러니 “UX/UI는 죄가 없다”는 말은, 결국 “디자인을 탓하기 전에, 우리 목표와 디자인이 잘 맞춰져 있는지부터 돌아보자”는 외침이라고 봐도 무방하겠지요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "즉, UX/UI는 사업을 돕기 위해 존재하는 도구이자, 사용자들에게 편리함과 즐거움을 주기 위한 수단인데, 그 초점을 잃어버리면 공허해진다는 뜻이에요. 그러니 “UX/UI는 죄가 없다”는 말은, 결국 “디자인을 탓하기 전에, 우리 목표와 디자인이 잘 맞춰져 있는지부터 돌아보자”는 외침이라고 봐도 무방하겠지요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-809e-bdbe-ece646e1ca79",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80db-92fd-c2d460c6a6b4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80eb-bccc-e78cdf96a3ef",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "6. 마치며: UX/UI, 예뻐야 할까? 예뻐야만 할까?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "6. 마치며: UX/UI, 예뻐야 할까? 예뻐야만 할까?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80be-885f-db0501dae2fe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이제 연애 편지부터 쿠팡, 그리고 교수님의 한마디까지 돌아보면, 결론은 의외로 간단해요. UX/UI가 예쁘면 좋고, 세련된 감각이 사용자에게 호감을 줄 수 있어요. 반면, ‘예쁘지 않아도’ 비즈니스 전략이나 메시지에 더 충실한 디자인이라면, 그게 또 최적의 선택일 수 있죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이제 연애 편지부터 쿠팡, 그리고 교수님의 한마디까지 돌아보면, 결론은 의외로 간단해요. UX/UI가 예쁘면 좋고, 세련된 감각이 사용자에게 호감을 줄 수 있어요. 반면, ‘예쁘지 않아도’ 비즈니스 전략이나 메시지에 더 충실한 디자인이라면, 그게 또 최적의 선택일 수 있죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-804a-ab73-f85a2f909487",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "결국 “예쁜 편지지냐, 투박한 종이냐”가 중요한 게 아니라, 그 편지 안에 담긴 마음이 무엇이며, 어떤 방식으로 전해지는지를 살펴봐야 한다는 거예요. 연애 편지라면 사랑이 진하게 느껴지도록, 쿠팡이라면 “싸고 빠른 배송”이라는 이미지를 극대화하도록, 또 교수님 말씀처럼 “학원 웹사이트 디자인이 좋아 보여도, 실제로 상담을 해보지 않으면 모르는 거 아니냐”는 냉철함도 함께 챙겨야 해요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "결국 “예쁜 편지지냐, 투박한 종이냐”가 중요한 게 아니라, 그 편지 안에 담긴 마음이 무엇이며, 어떤 방식으로 전해지는지를 살펴봐야 한다는 거예요. 연애 편지라면 사랑이 진하게 느껴지도록, 쿠팡이라면 “싸고 빠른 배송”이라는 이미지를 극대화하도록, 또 교수님 말씀처럼 “학원 웹사이트 디자인이 좋아 보여도, 실제로 상담을 해보지 않으면 모르는 거 아니냐”는 냉철함도 함께 챙겨야 해요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-8094-aecf-de02114b57c9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "UX/UI가 성공적으로 구현되려면, 비즈니스 목표와 사용자 욕구를 한데 모으는 ‘가교’가 되어야 한다는 점이 핵심",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "UX/UI가 성공적으로 구현되려면, 비즈니스 목표와 사용자 욕구를 한데 모으는 ‘가교’가 되어야 한다는 점이 핵심",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이에요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이에요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-801a-899c-d17a980f762d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "당연한 문장으로 귀결되지만, 일을 하다보면 가끔 놓치기 쉬운 부분인 것 같아요.  실용성이 우선시되는 상황에선 투박해 보여도 빠르게 업데이트가 가능하고, 사용자가 바로 원하는 걸 찾을 수 있는 인터페이스가 더 유리할 수 있고, 반대로 고급 이미지를 구축하려는 브랜드라면 세련된 미학을 담은 디자인이 그 가치 전달에 꼭 필요할 수도 있어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "당연한 문장으로 귀결되지만, 일을 하다보면 가끔 놓치기 쉬운 부분인 것 같아요.  실용성이 우선시되는 상황에선 투박해 보여도 빠르게 업데이트가 가능하고, 사용자가 바로 원하는 걸 찾을 수 있는 인터페이스가 더 유리할 수 있고, 반대로 고급 이미지를 구축하려는 브랜드라면 세련된 미학을 담은 디자인이 그 가치 전달에 꼭 필요할 수도 있어요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-8020-9a23-c7701d3ff5f2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이 모든 판단은 비즈니스 목표, 사용자 요구, 그리고 디자인의 미학이 얼만큼 잘 어우러지느냐에 달려 있어요. 연애 편지에서는 편지지와 내용이 맞물려 ‘설렘’을, 쿠팡에서는 투박함과 실험 정신이 만나 ‘효율’을, 교수님의 일침에서는 “디자인만 봐선 본질을 알 수 없다”는 것을 깨달았던 것 처럼, UX/UI라는 건 결국 조화와 균형의 예술이라고 말할 수 있겠습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이 모든 판단은 비즈니스 목표, 사용자 요구, 그리고 디자인의 미학이 얼만큼 잘 어우러지느냐에 달려 있어요. 연애 편지에서는 편지지와 내용이 맞물려 ‘설렘’을, 쿠팡에서는 투박함과 실험 정신이 만나 ‘효율’을, 교수님의 일침에서는 “디자인만 봐선 본질을 알 수 없다”는 것을 깨달았던 것 처럼, UX/UI라는 건 결국 조화와 균형의 예술이라고 말할 수 있겠습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80ab-996f-e6587b7b246f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "긴 글을 읽어주셔서 감사합니다. 앞으로 여러분이 서비스를 만들거나 사용할 때, “이 UX/UI가 과연 무엇을 목표로, 어떤 메시지를 전하고, 어떻게 사용자에게 가치를 줄까?”라는 질문을 던져보길 권해드려요. 예쁜 편지지와 투박한 종이 사이, 그리고 그 어디쯤에서 우리는 최고의 사용자 경험을 만들어낼 수 있을 거예요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "긴 글을 읽어주셔서 감사합니다. 앞으로 여러분이 서비스를 만들거나 사용할 때, “이 UX/UI가 과연 무엇을 목표로, 어떤 메시지를 전하고, 어떻게 사용자에게 가치를 줄까?”라는 질문을 던져보길 권해드려요. 예쁜 편지지와 투박한 종이 사이, 그리고 그 어디쯤에서 우리는 최고의 사용자 경험을 만들어낼 수 있을 거예요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-80ca-83e7-cb5c6847fbeb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1ba4dcb9-65aa-801b-b262-ce91e1204d00",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1ba4dcb9-65aa-80b8-91d2-fd197987857b"
+      },
+      "created_time": "2025-03-18T02:06:00.000Z",
+      "last_edited_time": "2025-03-18T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "25918602-eafe-466c-9d1f-8dfe372b1c82"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}

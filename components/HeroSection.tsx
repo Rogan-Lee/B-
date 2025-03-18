@@ -9,6 +9,7 @@ import Image from "next/image"
 import { ArrowRight } from "lucide-react"
 import posts from "../content/posts"
 import Link from 'next/link'
+import { Analytics } from '@vercel/analytics/next'
 
 export default function HeroSection() {
 
@@ -64,6 +65,7 @@ export default function HeroSection() {
               </SwiperSlide>
             ))}
           </Swiper>
+          <Analytics />
         </div>
 
         {/* ✅ 우측 CTA 박스 (너비 28%) */}
@@ -89,6 +91,7 @@ export default function HeroSection() {
               </div>
             </div>
           </Link>
+          <Analytics />
         </div>
       </div>
       <div className="w-full mx-auto my-8">
@@ -114,6 +117,7 @@ export default function HeroSection() {
               </div>
             </Link>
           ))}
+          <Analytics />
         </div>
       </div>
     </div>
